@@ -1,0 +1,1108 @@
+﻿4	Vijeo-Designer Language Export
+ID	Francais	Русский	Location
+2	GroupeAlarmes1	Группа сигналов 1	\Alarms & Events\GroupeAlarmes1\Label
+3	Très bas	Слишком низко	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\LoLo
+4	Bas	Низко	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\Lo
+5	NRML	Норм	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\NRML
+6	Haut	Высоко	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\Hi
+7	Très haut	Слишком высоко	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\HiHi
+8	Min. (%)	Min. (%)	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\MIN%
+9	Max. (%)	Max. (%)	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\MAJ%
+10	Min. (F)	Min. (F)	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\MIND
+11	Max. (F)	Max. (F)	\Alarms & Events\GroupeAlarmes1\Alarm Type Message\MAJD
+12	ACTIF	Активно	\Alarms & Events\GroupeAlarmes1\Alarm State Message\Active
+13	ACQ Подтверждено	\Alarms & Events\GroupeAlarmes1\Alarm State Message\ACK
+14	Retombée	Повторный спуск	\Alarms & Events\GroupeAlarmes1\Alarm State Message\RTN
+15	NONACQ	Не потверждено	\Alarms & Events\GroupeAlarmes1\Alarm State Message\UNACK
+16	Idle	Ожидание	\Graphical Panels\Popup Windows\Recettes\TextStatus
+17	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+18	Error	Ошибка	\Graphical Panels\Popup Windows\Recettes\TextStatus
+19	Compare Match	Совпадение	\Graphical Panels\Popup Windows\Recettes\TextStatus
+20	Compare Mismatch	Нет совпадения	\Graphical Panels\Popup Windows\Recettes\TextStatus
+21	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+22	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+23	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+24	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+25	Sending	Отправка	\Graphical Panels\Popup Windows\Recettes\TextStatus
+26	Receiving	Получение	\Graphical Panels\Popup Windows\Recettes\TextStatus
+27	Loading	Загрузка	\Graphical Panels\Popup Windows\Recettes\TextStatus
+28	Saving	Сохранение	\Graphical Panels\Popup Windows\Recettes\TextStatus
+29	Comparing	Сравнение	\Graphical Panels\Popup Windows\Recettes\TextStatus
+30	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextStatus
+31	No Error	Нет ошибок	\Graphical Panels\Popup Windows\Recettes\TextError
+32	Communication Error	Ошибка связи	\Graphical Panels\Popup Windows\Recettes\TextError
+33	Invalid Recipe Group	Некорректная группа рецептов	\Graphical Panels\Popup Windows\Recettes\TextError
+34	Invalid Recipe	Некорректный рецепт	\Graphical Panels\Popup Windows\Recettes\TextError
+35	Operation Locked	Операция недоступна	\Graphical Panels\Popup Windows\Recettes\TextError
+36	Invalid Operation	Некорректная операция	\Graphical Panels\Popup Windows\Recettes\TextError
+37	Busy	В работе	\Graphical Panels\Popup Windows\Recettes\TextError
+38	Insufficient Disk Space	Мало места на диске	\Graphical Panels\Popup Windows\Recettes\TextError
+39	Invalid File	Некорректный файл	\Graphical Panels\Popup Windows\Recettes\TextError
+40	Invalid Access Right	Некорректный уровень доступа	\Graphical Panels\Popup Windows\Recettes\TextError
+41	Denied - Maintenance Mode	Запрет - Режим обслуживания	\Graphical Panels\Popup Windows\Recettes\TextError
+42	Unknown Error	Неизвестная ошибка	\Graphical Panels\Popup Windows\Recettes\TextError
+64	Programme de recette:                   \n                                        \nIdle    : Indique aucune action\n\nSend    : Envoie les valeurs d'ingrédient vers l'équipement\n\nSnapshot: Demande les valeurs de l'équipement et les stockes dans la recette\n\nSave    : Enregistre les valeurs de recette\n\nDelete  : Suprime la recette actuelle\n\nCompare : Compare les valeurs actuelles de la recette avec celle de l'équipement                              	Programme de recette:                   \n                                        \nIdle    : Indique aucune action\n\nSend    : Envoie les valeurs d'ingrédient vers l'équipement\n\nSnapshot: Demande les valeurs de l'équipement et les stockes dans la recette\n\nSave    : Enregistre les valeurs de recette\n\nDelete  : Suprime la recette actuelle\n\nCompare : Compare les valeurs actuelles de la recette avec celle de l'équipement                              	\Graphical Panels\Popup Windows\HelpRecette\Texte01
+65	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran1\Texte17
+66	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran1\Text13
+68	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran1\Text13
+72	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran1\Text01
+83	GESTION REGULATION P18-2  Pression / Température	Управление ругулированием P18-2  Давление / Температура	\Graphical Panels\Base Panels\Ecran1\Texte01
+85	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran1\Commutateur01
+86	Pressure	Давление	\Graphical Panels\Base Panels\Ecran1\Commutateur08
+87	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran1\Commutateur07
+88	Presse	Пресс	\Graphical Panels\Base Panels\Ecran1\Commutateur07
+90	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran1\Commutateur07
+91	Trend	Тренд	\Graphical Panels\Base Panels\Ecran1\Commutateur06
+92	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran1\Commutateur07
+93	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran1\Commutateur04
+96	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran1\Text05
+97	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran1\Text05
+98	Pressure_Group	Группа давления	\Recipes\Pressure_Group\Label
+101	Temperature_Group	Группа температуры	\Recipes\Temperature_Group\Label
+102	SP_Temperature_1	Уст_Температура_1	\Recipes\Temperature_Group\Ingredient\1
+103	Program T1	Программа T1	\Recipes\Temperature_Group\Recipe\1
+104	GroupeAlarmesDiag1	Группа диаг. сообщ. 1	\Alarms & Events\GroupeAlarmesDiag1\Label
+105	SYS	SYS	\Alarms & Events\GroupeAlarmesDiag1\Alarm Type Message\System
+106	DFB	DFB	\Alarms & Events\GroupeAlarmesDiag1\Alarm Type Message\DFB
+107	SFC	SFC	\Alarms & Events\GroupeAlarmesDiag1\Alarm Type Message\SFC/Grafcet
+108	ACTIF	Активно	\Alarms & Events\GroupeAlarmesDiag1\Alarm State Message\Active
+109	ACQ	Подтверждено	\Alarms & Events\GroupeAlarmesDiag1\Alarm State Message\ACK
+110	Retombée	Повторный спуск	\Alarms & Events\GroupeAlarmesDiag1\Alarm State Message\RTN
+111	NONACQ	Не потверждено	\Alarms & Events\GroupeAlarmesDiag1\Alarm State Message\UNACK
+114	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran10\Text13
+116	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran10\Text13
+118	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran10\Text05
+119	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran10\Text05
+120	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran10\Text01
+143	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran20\Text13
+145	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran20\Text13
+147	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran20\Text05
+148	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran20\Text05
+149	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran20\Text01
+161	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran30\Text13
+163	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran30\Text13
+165	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran30\Text05
+166	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran30\Text05
+167	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran30\Text01
+179	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran40\Text13
+181	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran40\Text13
+183	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran40\Text05
+184	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran40\Text05
+185	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran40\Text01
+196	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran61\Text13
+198	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran61\Text13
+200	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran61\Text05
+201	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran61\Text05
+204	C_Pres	Уст_Давл	\Graphical Panels\Base Panels\Ecran61\Texte05
+205	M_Pres	Изм_Давл	\Graphical Panels\Base Panels\Ecran61\Texte06
+206	C_Temp	Уст_Темп	\Graphical Panels\Base Panels\Ecran61\Texte07
+207	T_Huile	Т_Масло	\Graphical Panels\Base Panels\Ecran61\Texte08
+208	T_Plat1	Т_Плита1	\Graphical Panels\Base Panels\Ecran61\Texte01
+209	T_Plat5	Т_Плита5	\Graphical Panels\Base Panels\Ecran61\Texte02
+210	T_Plat15	Т_Плита15	\Graphical Panels\Base Panels\Ecran61\Texte03
+211	T_Plat19	Т_Плита19	\Graphical Panels\Base Panels\Ecran61\Texte04
+254	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran62\Text13
+256	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran62\Text13
+258	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran62\Text05
+259	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran62\Text05
+314	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran70\Text13
+316	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran70\Text13
+318	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran70\Text05
+319	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran70\Text05
+320	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran70\Text01
+350	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran80\Text13
+352	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran80\Text13
+354	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran80\Text05
+355	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran80\Text05
+360	Menu\nrecettes	Меню\nрецептов	\Graphical Panels\Base Panels\Ecran80\Commutateur02
+371	PLC	PLC	\Graphical Panels\Base Panels\Ecran80\Texte09
+372	Set	Set	\Graphical Panels\Base Panels\Ecran80\Commutateur06
+373	Ok	Ok	\Graphical Panels\Base Panels\Ecran80\Commutateur07
+374	Set time to PLC	Установить время на ПЛК	\Graphical Panels\Base Panels\Ecran80\Commutateur08
+375	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran80\Text13
+377	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran80\Text02
+379	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran80\Text13
+381	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran80\Text02
+383	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran90\Text13
+385	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran90\Text13
+387	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran90\Text05
+388	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran90\Text05
+390	Date	Дата	\Graphical Panels\Base Panels\Ecran90\ResumeAlarme01\Columns\Date
+391	Message	Сообщение	\Graphical Panels\Base Panels\Ecran90\ResumeAlarme01\Columns\Message
+392	Etat	Этап	\Graphical Panels\Base Panels\Ecran90\ResumeAlarme01\Columns\State
+393	Heure	Час	\Graphical Panels\Base Panels\Ecran90\ResumeAlarme01\Columns\Time
+395	Next	След.	\Graphical Panels\Base Panels\Ecran90\Texte05
+406	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran91\Text13
+408	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran91\Text13
+410	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran91\Text05
+411	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran91\Text05
+413	Date	Дата	\Graphical Panels\Base Panels\Ecran91\ResumeAlarme02\Columns\Date
+414	Message	Сообщение	\Graphical Panels\Base Panels\Ecran91\ResumeAlarme02\Columns\Message
+415	Etat	Этап	\Graphical Panels\Base Panels\Ecran91\ResumeAlarme02\Columns\State
+416	Heure	Час	\Graphical Panels\Base Panels\Ecran91\ResumeAlarme02\Columns\Time
+418	Previous	Пред.	\Graphical Panels\Base Panels\Ecran91\Texte04
+431	Pression	Давление	\Graphical Panels\Base Panels\Ecran61\Commutateur04
+436	Program T2	Программа T2	\Recipes\Temperature_Group\Recipe\2
+575	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran20\Commutateur04
+574	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran20\Commutateur07
+573	Trend	Тренд	\Graphical Panels\Base Panels\Ecran20\Commutateur06
+572	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran20\Commutateur01
+570	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran10\Commutateur07
+569	Pressure	Давление	\Graphical Panels\Base Panels\Ecran10\Commutateur08
+568	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran10\Commutateur07
+567	Presse	Пресс	\Graphical Panels\Base Panels\Ecran10\Commutateur07
+566	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran10\Commutateur04
+565	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran10\Commutateur07
+564	Trend	Тренд	\Graphical Panels\Base Panels\Ecran10\Commutateur06
+563	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran10\Commutateur01
+591	Trend	Тренд	\Graphical Panels\Base Panels\Ecran40\Commutateur06
+590	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran40\Commutateur01
+588	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran30\Commutateur07
+587	Pressure	Давление	\Graphical Panels\Base Panels\Ecran30\Commutateur08
+586	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran30\Commutateur07
+585	Presse	Пресс	\Graphical Panels\Base Panels\Ecran30\Commutateur07
+584	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran30\Commutateur04
+583	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran30\Commutateur07
+582	Trend	Тренд	\Graphical Panels\Base Panels\Ecran30\Commutateur06
+581	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran30\Commutateur01
+579	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran20\Commutateur07
+578	Pressure	Давление	\Graphical Panels\Base Panels\Ecran20\Commutateur08
+577	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran20\Commutateur07
+576	Presse	Пресс	\Graphical Panels\Base Panels\Ecran20\Commutateur07
+606	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran61\Commutateur07
+605	Pressure	Давление	\Graphical Panels\Base Panels\Ecran61\Commutateur08
+604	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran61\Commutateur07
+603	Presse	Пресс	\Graphical Panels\Base Panels\Ecran61\Commutateur07
+602	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran61\Commutateur04
+601	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran61\Commutateur07
+600	Trend	Тренд	\Graphical Panels\Base Panels\Ecran61\Commutateur06
+599	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran61\Commutateur01
+597	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran40\Commutateur07
+596	Pressure	Давление	\Graphical Panels\Base Panels\Ecran40\Commutateur08
+595	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran40\Commutateur07
+594	Presse	Пресс	\Graphical Panels\Base Panels\Ecran40\Commutateur07
+593	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran40\Commutateur04
+592	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran40\Commutateur07
+623	Pressure	Давление	\Graphical Panels\Base Panels\Ecran62\Commutateur08
+622	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran62\Commutateur07
+621	Presse	Пресс	\Graphical Panels\Base Panels\Ecran62\Commutateur07
+620	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran62\Commutateur04
+619	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran62\Commutateur07
+618	Trend	Тренд	\Graphical Panels\Base Panels\Ecran62\Commutateur06
+617	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran62\Commutateur01
+639	Presse	Пресс	\Graphical Panels\Base Panels\Ecran80\Commutateur07
+638	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran80\Commutateur04
+637	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran80\Commutateur07
+636	Trend	Тренд	\Graphical Panels\Base Panels\Ecran80\Commutateur06
+635	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran80\Commutateur01
+633	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran70\Commutateur07
+632	Pressure	Давление	\Graphical Panels\Base Panels\Ecran70\Commutateur08
+631	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran70\Commutateur07
+630	Presse	Пресс	\Graphical Panels\Base Panels\Ecran70\Commutateur07
+629	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran70\Commutateur04
+628	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran70\Commutateur07
+627	Trend	Тренд	\Graphical Panels\Base Panels\Ecran70\Commutateur06
+626	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran70\Commutateur01
+624	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran62\Commutateur07
+655	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran91\Commutateur07
+654	Trend	Тренд	\Graphical Panels\Base Panels\Ecran91\Commutateur06
+653	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran91\Commutateur01
+651	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran90\Commutateur07
+650	Pressure	Давление	\Graphical Panels\Base Panels\Ecran90\Commutateur08
+649	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran90\Commutateur07
+648	Presse	Пресс	\Graphical Panels\Base Panels\Ecran90\Commutateur07
+647	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran90\Commutateur04
+646	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran90\Commutateur07
+645	Trend	Тренд	\Graphical Panels\Base Panels\Ecran90\Commutateur06
+644	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran90\Commutateur01
+642	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran80\Commutateur07
+641	Pressure	Давление	\Graphical Panels\Base Panels\Ecran80\Commutateur08
+640	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran80\Commutateur07
+671	Défaut thermique batterie de refroidissement 7	Перегрев батареи охлаждения 7	\Variable\P18_2\A_Batterie_Huile7\Alarm\Alarm Message
+670	Défaut thermique batterie de refroidissement 6	Перегрев батареи охлаждения 6	\Variable\P18_2\A_Batterie_Huile6\Alarm\Alarm Message
+669	Défaut thermique batterie de refroidissement 5	Перегрев батареи охлаждения 5	\Variable\P18_2\A_Batterie_Huile5\Alarm\Alarm Message
+668	Défaut thermique batterie de refroidissement 4	Перегрев батареи охлаждения 4	\Variable\P18_2\A_Batterie_Huile4\Alarm\Alarm Message
+667	Défaut thermique batterie de refroidissement 3	Перегрев батареи охлаждения 3	\Variable\P18_2\A_Batterie_Huile3\Alarm\Alarm Message
+666	Défaut thermique batterie de refroidissement 2	Перегрев батареи охлаждения 2	\Variable\P18_2\A_Batterie_Huile2\Alarm\Alarm Message
+665	Défaut thermique batterie de refroidissement 1	Перегрев батареи охлаждения 1	\Variable\P18_2\A_Batterie_Huile1\Alarm\Alarm Message
+664	Défaut ATV pompe de circulation huile thermique presse	Ошибка ПЧ циркуляционного насоса масла	\Variable\P18_2\A_Pump_Huile\Alarm\Alarm Message
+663	Defaut d'isolement du bus AS-i_2	Ошибка изоляции шины AS-i_2	\Variable\P18_2\A_CPI_Asi_Res_2\Alarm\Alarm Message
+662	Defaut d'isolement du bus AS-i_1	Ошибка изоляции шины AS-i_1	\Variable\P18_2\A_CPI_Asi_Res_1\Alarm\Alarm Message
+660	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran91\Commutateur07
+659	Pressure	Давление	\Graphical Panels\Base Panels\Ecran91\Commutateur08
+658	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran91\Commutateur07
+657	Presse	Пресс	\Graphical Panels\Base Panels\Ecran91\Commutateur07
+656	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran91\Commutateur04
+685	Compteurs horaire	Compteurs horaire	\Graphical Panels\Base Panels\Ecran10\Texte11
+684	Pressage	Прессование	\Graphical Panels\Base Panels\Ecran10\Texte13
+679	Hrs	Часы	\Graphical Panels\Base Panels\Ecran10\Texte08
+672	Error\nSystem	Ошибка\nсистемы	\Graphical Panels\Base Panels\Ecran80\Commutateur04
+690	Stop urgence	Аварийный стоп	\Graphical Panels\Base Panels\Ecran10\Texte42
+691	Pression atteinte	Ожидание прессования	\Graphical Panels\Base Panels\Ecran10\Texte05
+692	Aspiration Presse	Продувка пресса	\Graphical Panels\Base Panels\Ecran10\Texte40
+693	Alim air comprimé	Подача свжатого воздуха	\Graphical Panels\Base Panels\Ecran10\Texte39
+694	Plat. 15	Плита 15	\Graphical Panels\Base Panels\Ecran10\Texte06
+699	Plat. 5	Плита 5	\Graphical Panels\Base Panels\Ecran10\Texte07
+702	Huile	Масло	\Graphical Panels\Base Panels\Ecran10\Texte08
+705	Plat. 19	Плита 19	\Graphical Panels\Base Panels\Ecran10\Texte02
+708	Plat. 1	Плита 1	\Graphical Panels\Base Panels\Ecran10\Texte09
+713	Graissage!!	Нужна смазка!!	\Graphical Panels\Base Panels\Ecran10\Texte25
+714	Graissage!!	Нужна смазка!!	\Graphical Panels\Base Panels\Ecran20\Texte25
+717	Huile	Масло	\Graphical Panels\Base Panels\Ecran20\Texte03
+720	Plat. 1	Плита 1	\Graphical Panels\Base Panels\Ecran20\Texte11
+723	Plat. 5	Плита 5	\Graphical Panels\Base Panels\Ecran20\Texte12
+726	Plat. 15	Плита 15	\Graphical Panels\Base Panels\Ecran20\Texte13
+729	Plat. 19	Плита 19	\Graphical Panels\Base Panels\Ecran20\Texte14
+732	Graissage!!	Нужна смазка!!	\Graphical Panels\Base Panels\Ecran30\Texte25
+776	Selection\nProgramme	Выбор\nпрограммы	\Graphical Panels\Base Panels\Ecran20\Commutateur03
+779	PV:	PV:	\Graphical Panels\Base Panels\Ecran20\Texte08
+782	TM:	TM:	\Graphical Panels\Base Panels\Ecran20\Texte24
+783	Régulation en:	Регулятор:	\Graphical Panels\Base Panels\Ecran20\Texte01
+784	Température presse	Température presse	\Graphical Panels\Base Panels\Ecran20\Texte02
+786	Manu	Руч.	\Graphical Panels\Base Panels\Ecran20\Commutateur02\Label\Off
+787	Auto	Авто.	\Graphical Panels\Base Panels\Ecran20\Commutateur02\Label\On
+795	ET1	ET1	\Graphical Panels\Base Panels\Ecran20\Texte04
+796	ET2	ET2	\Graphical Panels\Base Panels\Ecran20\Texte05
+797	ET3	ET3	\Graphical Panels\Base Panels\Ecran20\Texte06
+798	ET4	ET4	\Graphical Panels\Base Panels\Ecran20\Texte07
+799	ETDV	ETDV	\Graphical Panels\Base Panels\Ecran20\Texte07
+800	ETPV	ETPV	\Graphical Panels\Base Panels\Ecran20\Texte06
+801	ET6	ET6	\Graphical Panels\Base Panels\Ecran20\Texte05
+802	ET5	ET5	\Graphical Panels\Base Panels\Ecran20\Texte04
+805	Selection\nProgramme	Выбор\nпрограммы	\Graphical Panels\Base Panels\Ecran30\Commutateur03
+806	Mesure:	Mesure:	\Graphical Panels\Base Panels\Ecran30\Texte23
+807	TM:	TM:	\Graphical Panels\Base Panels\Ecran30\Texte24
+808	Régulation en:	Регулятор:	\Graphical Panels\Base Panels\Ecran30\Texte01
+809	Pression presse	Давление в прессе	\Graphical Panels\Base Panels\Ecran30\Texte02
+810	Manu	Руч.	\Graphical Panels\Base Panels\Ecran30\Commutateur02\Label\Off
+811	Auto	Авто.	\Graphical Panels\Base Panels\Ecran30\Commutateur02\Label\On
+816	EP4	EP4	\Graphical Panels\Base Panels\Ecran30\Texte10
+817	EP3	EP3	\Graphical Panels\Base Panels\Ecran30\Texte09
+818	EP2	EP2	\Graphical Panels\Base Panels\Ecran30\Texte08
+819	EP1	EP1	\Graphical Panels\Base Panels\Ecran30\Texte03
+820	EP5	EP5	\Graphical Panels\Base Panels\Ecran30\Texte04
+821	EP6	EP6	\Graphical Panels\Base Panels\Ecran30\Texte05
+822	EPPV	EPPV	\Graphical Panels\Base Panels\Ecran30\Texte06
+823	EPDV	EPDV	\Graphical Panels\Base Panels\Ecran30\Texte07
+830	1hy7	1hy7	\Graphical Panels\Base Panels\Ecran30\Texte14
+831	1hy6	1hy6	\Graphical Panels\Base Panels\Ecran30\Texte13
+832	1hy5	1hy5	\Graphical Panels\Base Panels\Ecran30\Texte12
+833	1hy4	1hy4	\Graphical Panels\Base Panels\Ecran30\Texte11
+834	1hy3	1hy3	\Graphical Panels\Base Panels\Ecran30\Texte03
+835	1hy2	1hy2	\Graphical Panels\Base Panels\Ecran30\Texte15
+836	1hy1	1hy1	\Graphical Panels\Base Panels\Ecran30\Texte16
+837	Temps pressage Ph 1	Время прессования Фаза 1	\Graphical Panels\Base Panels\Ecran30\Texte19
+840	Val écoulée:	Пред. знач.:	\Graphical Panels\Base Panels\Ecran30\Texte22
+841	Consigne:	Уставка:	\Graphical Panels\Base Panels\Ecran30\Texte25
+862	Out:	Вых.:	\Graphical Panels\Base Panels\Ecran20\Texte23
+859	1 Max!!	1 Max!!	\Graphical Panels\Base Panels\Ecran30\Texte18
+858	1 Max!!	1 Max!!	\Graphical Panels\Base Panels\Ecran20\Texte10
+857	1 Max!!	1 Max!!	\Graphical Panels\Base Panels\Ecran10\Texte01
+848	Consigne:	Уставка:	\Graphical Panels\Base Panels\Ecran30\Texte21
+849	Val écoulée:	Пред. знач.:	\Graphical Panels\Base Panels\Ecran30\Texte20
+852	Temps pressage Ph 2	Время прессования Фаза 2	\Graphical Panels\Base Panels\Ecran30\Texte18
+879	1hy7	1hy7	\Graphical Panels\Base Panels\Ecran10\Texte14
+878	1hy1	1hy1	\Graphical Panels\Base Panels\Ecran10\Texte16
+877	Cool	Охл.	\Graphical Panels\Base Panels\Ecran20\Texte03
+874	Heat	Нагр.	\Graphical Panels\Base Panels\Ecran20\Texte15
+895	> Max	> Max	\Graphical Panels\Base Panels\Ecran10\Texte14
+884	1hy2	1hy2	\Graphical Panels\Base Panels\Ecran10\Texte15
+883	1hy3	1hy3	\Graphical Panels\Base Panels\Ecran10\Texte03
+882	1hy4	1hy4	\Graphical Panels\Base Panels\Ecran10\Texte11
+881	1hy5	1hy5	\Graphical Panels\Base Panels\Ecran10\Texte12
+880	1hy6	1hy6	\Graphical Panels\Base Panels\Ecran10\Texte13
+911	Batterie 5	Батарея 5	\Graphical Panels\Base Panels\Ecran20\Texte12
+910	Batterie 6	Батарея 6	\Graphical Panels\Base Panels\Ecran20\Texte04
+909	Batterie 7	Батарея 7	\Graphical Panels\Base Panels\Ecran20\Texte14
+908	Batterie 1	Батарея 1	\Graphical Panels\Base Panels\Ecran20\Texte16
+907	Pression	Давление	\Graphical Panels\Base Panels\Ecran62\Commutateur04
+906	Températur	Температура	\Graphical Panels\Base Panels\Ecran62\Commutateur03
+905	Général	Общее	\Graphical Panels\Base Panels\Ecran62\Commutateur05
+901	Presse\nen chauffage	Пресс\nнагревается	\Graphical Panels\Base Panels\Ecran20\Texte02
+900	Presse en\nrefroidissement	Пресс\nохлаждается	\Graphical Panels\Base Panels\Ecran20\Texte03
+899	Presse en\nrefroidissement	Пресс\nохлаждается	\Graphical Panels\Base Panels\Ecran10\Texte03
+898	Presse\nen chauffage	Пресс\nнагревается	\Graphical Panels\Base Panels\Ecran10\Texte02
+897	< Min	< Min	\Graphical Panels\Base Panels\Ecran10\Texte12
+896	Min-Max	Min-Max	\Graphical Panels\Base Panels\Ecran10\Texte13
+914	Batterie 2	Батарея 2	\Graphical Panels\Base Panels\Ecran20\Texte15
+913	Batterie 3	Батарея 3	\Graphical Panels\Base Panels\Ecran20\Texte03
+912	Batterie 4	Батарея 4	\Graphical Panels\Base Panels\Ecran20\Texte02
+916	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran1\Commutateur08
+928	Presse en\nrefroidissement	Пресс\nохлаждается	\Graphical Panels\Base Panels\Ecran30\Texte03
+929	Presse\nen chauffage	Пресс\nнагревается	\Graphical Panels\Base Panels\Ecran30\Texte02
+930	Presse en chargement:	Загрузка пресса:	\Graphical Panels\Base Panels\Ecran10\Texte02
+932	Avant	Передняя	\Graphical Panels\Base Panels\Ecran10\Commutateur02\Label\Off
+933	Arriere	Задняя	\Graphical Panels\Base Panels\Ecran10\Commutateur02\Label\On
+934	< Min	< Min	\Graphical Panels\Base Panels\Ecran30\Texte12
+935	Min-Max	Min-Max	\Graphical Panels\Base Panels\Ecran30\Texte13
+936	> Max	> Max	\Graphical Panels\Base Panels\Ecran30\Texte14
+940	Mes. - Cons.:	Изм. - Уст.:	\Graphical Panels\Base Panels\Ecran80\Texte23
+943	Cons. <min.:	Уст. <min.:	\Graphical Panels\Base Panels\Ecran80\Texte01
+946	Cons. min.:	Уст. min.:	\Graphical Panels\Base Panels\Ecran80\Texte02
+949	Cons. max.:	Уст. max.:	\Graphical Panels\Base Panels\Ecran80\Texte03
+952	Cons. >max.:	Уст. >max.:	\Graphical Panels\Base Panels\Ecran80\Texte04
+953	Valeur régulation pression	Значения регулирования прессования	\Graphical Panels\Base Panels\Ecran80\Texte01
+954	Matériel dans la presse bras 2	Материал в прессе, корзина 2	\Graphical Panels\Base Panels\Ecran10\Texte04
+955	Matériel dans la presse bras 1	Материал в прессе, корзина 1	\Graphical Panels\Base Panels\Ecran10\Texte03
+956	Corbeille libre pour poussior	Корзина свободна для загрузки	\Graphical Panels\Base Panels\Ecran10\Texte41
+957	Reset	Reset	\Graphical Panels\Base Panels\Ecran10\Commutateur07
+961	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran10\Commutateur08
+962	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran20\Commutateur08
+963	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran30\Commutateur08
+964	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran40\Commutateur08
+966	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran61\Commutateur08
+968	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran62\Commutateur08
+969	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran70\Commutateur08
+970	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran80\Commutateur08
+971	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran90\Commutateur08
+972	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran91\Commutateur08
+973	Start	Запуск	\Graphical Panels\Base Panels\Ecran40\Commutateur04\Label\Off
+974	Stop	Стоп	\Graphical Panels\Base Panels\Ecran40\Commutateur04\Label\On
+977	Start	Запуск	\Graphical Panels\Base Panels\Ecran40\Commutateur03\Label\Off
+978	Stop	Стоп	\Graphical Panels\Base Panels\Ecran40\Commutateur03\Label\On
+983	Set	Set	\Graphical Panels\Base Panels\Ecran40\Commutateur07\Label\Off
+984	Reset	Reset	\Graphical Panels\Base Panels\Ecran40\Commutateur07\Label\On
+985	Set	Set	\Graphical Panels\Base Panels\Ecran40\Commutateur02\Label\Off
+986	Reset	Reset	\Graphical Panels\Base Panels\Ecran40\Commutateur02\Label\On
+987	Set	Set	\Graphical Panels\Base Panels\Ecran40\Commutateur05\Label\Off
+988	Reset	Reset	\Graphical Panels\Base Panels\Ecran40\Commutateur05\Label\On
+989	Set	Set	\Graphical Panels\Base Panels\Ecran40\Commutateur07\Label\Off
+990	Reset	Reset	\Graphical Panels\Base Panels\Ecran40\Commutateur07\Label\On
+995	Avant	Передняя	\Graphical Panels\Base Panels\Ecran40\Commutateur03\Label\Off
+996	Arriere	Задняя	\Graphical Panels\Base Panels\Ecran40\Commutateur03\Label\On
+997	Presse en chargement:	Загрузка пресса:	\Graphical Panels\Base Panels\Ecran40\Texte13
+998	Aspiration Presse:	Продувка пресса:	\Graphical Panels\Base Panels\Ecran40\Texte22
+999	Aspiration Presse:	Продувка пресса:	\Graphical Panels\Base Panels\Ecran20\Texte22
+1000	Start	Запуск	\Graphical Panels\Base Panels\Ecran20\Commutateur04\Label\Off
+1001	Stop	Стоп	\Graphical Panels\Base Panels\Ecran20\Commutateur04\Label\On
+1002	Pression atteinte:	Ожидание прессования:	\Graphical Panels\Base Panels\Ecran40\Texte01
+1003	Corbeille libre \npour poussoir:	Корзина свободна\nдля загрузки:	\Graphical Panels\Base Panels\Ecran40\Texte03
+1004	Matériel dans la presse bras 1:	Материал в прессе, корзина 1:	\Graphical Panels\Base Panels\Ecran40\Texte05
+1005	Matériel dans la presse bras 2:	Материал в прессе, корзина 2:	\Graphical Panels\Base Panels\Ecran40\Texte11
+1006	Marche arrière chargement lift:	Запуск заднего лифта:	\Graphical Panels\Base Panels\Ecran40\Texte07
+1007	Pression atteinte:	Ожидание прессования:	\Graphical Panels\Base Panels\Ecran30\Texte01
+1019	sec	сек	\Graphical Panels\Popup Windows\PID_1\Texte01
+1018	sec	сек	\Graphical Panels\Popup Windows\PID_1\Texte14
+1008	Set	Set	\Graphical Panels\Base Panels\Ecran30\Commutateur07\Label\Off
+1009	Reset	Reset	\Graphical Panels\Base Panels\Ecran30\Commutateur07\Label\On
+1010	Presse en chargement avant	Пресс на передней загрузке	\Graphical Panels\Base Panels\Ecran40\Texte06
+1011	Presse en chargement arrière	Пресс на задней загрузке	\Graphical Panels\Base Panels\Ecran40\Texte01
+1012	Plateaux à charger:	Плит загружено:	\Graphical Panels\Base Panels\Ecran40\Texte09
+1013	Plateaux à décharger:	Плит выгружено:	\Graphical Panels\Base Panels\Ecran40\Texte10
+1039	Kp	Kp	\Graphical Panels\Popup Windows\PID_2\Texte03
+1038	Kd	Kd	\Graphical Panels\Popup Windows\PID_2\Texte02
+1031	sec	сек	\Graphical Panels\Popup Windows\PID_2\Texte01
+1030	sec	сек	\Graphical Panels\Popup Windows\PID_2\Texte14
+1029	PID 1	PID 1	\Graphical Panels\Popup Windows\PID_1\Texte02
+1028	Ki	Ki	\Graphical Panels\Popup Windows\PID_1\Texte04
+1027	Kp	Kp	\Graphical Panels\Popup Windows\PID_1\Texte03
+1026	Kd	Kd	\Graphical Panels\Popup Windows\PID_1\Texte02
+1055			\Resource Library\Text\RessourceTexte001\State\Invalid
+1054	Commande en:	Режим работы:	\Graphical Panels\Base Panels\Ecran40\Texte08
+1051	Recherche	Поиск	\Graphical Panels\Base Panels\Ecran40\Commutateur06\Label\On
+1050	Trouvé	Найдено	\Graphical Panels\Base Panels\Ecran40\Commutateur06\Label\Off
+1049	Position initiale:	Начальное положение:	\Graphical Panels\Base Panels\Ecran40\Texte04
+1048	Programme numéro:	Номер программы:	\Graphical Panels\Base Panels\Ecran40\Texte07
+1047	Position du pont:	Положение:	\Graphical Panels\Base Panels\Ecran40\Texte12
+1042	Pont à ventouse	Вакуумный манипулятор	\Graphical Panels\Base Panels\Ecran40\Texte02
+1041	PID 2	PID 2	\Graphical Panels\Popup Windows\PID_2\Texte02
+1040	Ki	Ki	\Graphical Panels\Popup Windows\PID_2\Texte04
+1070	CMD Pont à ventouse en manu	Ручное управление манипулятором	\Graphical Panels\Base Panels\Ecran40\Texte02
+1058	Auto	Авто.	\Resource Library\Text\RessourceTexte001\State\2
+1057	PAS A PAS	Пошаговый	\Resource Library\Text\RessourceTexte001\State\1
+1056	MANUEL	Ручной	\Resource Library\Text\RessourceTexte001\State\0
+1087	Etat de la pince:	Состояние присосок:	\Graphical Panels\Base Panels\Ecran40\Texte12
+1086	AIR	Вкл	\Graphical Panels\Base Panels\Ecran40\Commutateur10\Label\On
+1085	VIDE	VIDE	\Graphical Panels\Base Panels\Ecran40\Commutateur10\Label\Off
+1084	Pont en position:	Положение:	\Graphical Panels\Base Panels\Ecran40\Texte08
+1083	UP	Верх	\Graphical Panels\Base Panels\Ecran40\Commutateur09\Label\On
+1082	DOWN	Низ	\Graphical Panels\Base Panels\Ecran40\Commutateur09\Label\Off
+1081	Translation à gauche en:	Движение влево:	\Graphical Panels\Base Panels\Ecran40\Texte04
+1080	Stop	Стоп	\Graphical Panels\Base Panels\Ecran40\Commutateur06\Label\On
+1079	Start	Запуск	\Graphical Panels\Base Panels\Ecran40\Commutateur06\Label\Off
+1074	Stop	Стоп	\Graphical Panels\Base Panels\Ecran40\Commutateur08\Label\On
+1073	Start	Запуск	\Graphical Panels\Base Panels\Ecran40\Commutateur08\Label\Off
+1088	Translation à droite:	Движение вправо:	\Graphical Panels\Base Panels\Ecran40\Texte13
+1135	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran60\Commutateur01
+1133	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran60\Text05
+1132	<< NL	<< NL	\Graphical Panels\Base Panels\Ecran60\Text05
+1130	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran60\Text13
+1128	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran60\Text13
+1151	Général	Общее	\Graphical Panels\Base Panels\Ecran60\Commutateur05
+1150	T_Plat15	Т_Плита15	\Graphical Panels\Base Panels\Ecran60\Texte03
+1149	T_Plat19	Т_Плита19	\Graphical Panels\Base Panels\Ecran60\Texte04
+1148	T_Plat1	Т_Плита1	\Graphical Panels\Base Panels\Ecran60\Texte01
+1147	T_Plat5	Т_Плита5	\Graphical Panels\Base Panels\Ecran60\Texte02
+1146	C_Pres	Уст_Давл	\Graphical Panels\Base Panels\Ecran60\Texte05
+1145	M_Pres	Изм_Давл	\Graphical Panels\Base Panels\Ecran60\Texte06
+1144	T_Huile	Т_Масло	\Graphical Panels\Base Panels\Ecran60\Texte08
+1143	C_Temp	Уст_Темп	\Graphical Panels\Base Panels\Ecran60\Texte07
+1142	Températur	Температура	\Graphical Panels\Base Panels\Ecran60\Commutateur03
+1141	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran60\Commutateur07
+1140	Pressure	Давление	\Graphical Panels\Base Panels\Ecran60\Commutateur08
+1139	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran60\Commutateur07
+1138	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran60\Commutateur04
+1137	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran60\Commutateur07
+1136	Trend	Тренд	\Graphical Panels\Base Panels\Ecran60\Commutateur06
+1167	Valeur régulation pression	Значения регулирования прессования	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte02
+1166	C_Temp	Уст_Темп	\Graphical Panels\Base Panels\Ecran62\Texte07
+1165	T_Huile	Т_Масло	\Graphical Panels\Base Panels\Ecran62\Texte08
+1164	M_Pres	Изм_Давл	\Graphical Panels\Base Panels\Ecran62\Texte06
+1163	C_Pres	Уст_Давл	\Graphical Panels\Base Panels\Ecran62\Texte05
+1162	T_Plat5	Т_Плита5	\Graphical Panels\Base Panels\Ecran62\Texte02
+1161	T_Plat1	Т_Плита1	\Graphical Panels\Base Panels\Ecran62\Texte01
+1160	T_Plat19	Т_Плита19	\Graphical Panels\Base Panels\Ecran62\Texte04
+1159	T_Plat15	Т_Плита15	\Graphical Panels\Base Panels\Ecran62\Texte03
+1158	Températur	Температура	\Graphical Panels\Base Panels\Ecran61\Commutateur03
+1157	Général	Общее	\Graphical Panels\Base Panels\Ecran61\Commutateur05
+1154	Pression	Давление	\Graphical Panels\Base Panels\Ecran60\Commutateur04
+1153	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran60\Commutateur08
+1152	Presse	Пресс	\Graphical Panels\Base Panels\Ecran60\Commutateur07
+1182	Mes. - Cons.:	Изм. - Уст.:	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte23
+1179	Cons. <min.:	Уст. <min.:	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte01
+1176	Cons. min.:	Уст. min.:	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte02
+1173	Cons. max.:	Уст. max.:	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte03
+1170	Cons. >max.:	Уст. >max.:	\Graphical Panels\Popup Windows\Val_Regul_Pres\Texte04
+1231	0	0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte05
+1230	%	%	\Graphical Panels\Popup Windows\PID_1_Huile\Texte14
+1229	100,0	100,0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte13
+1228	0	0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte12
+1227	°c	°c	\Graphical Panels\Popup Windows\PID_1_Huile\Texte04
+1226	300,0	300,0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte03
+1225	0	0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte02
+1223	Regulateur Huile PID 1	Регулятор масла PID 1	\Graphical Panels\Popup Windows\PID_1_Huile\Texte01
+1246	Auto	Авто.	\Graphical Panels\Popup Windows\PID_1_Huile\Commutateur01\Label\On
+1245	Manu	Руч.	\Graphical Panels\Popup Windows\PID_1_Huile\Commutateur01\Label\Off
+1244	Ki	Ki	\Graphical Panels\Popup Windows\PID_1_Huile\Texte04
+1243	Kp	Kp	\Graphical Panels\Popup Windows\PID_1_Huile\Texte03
+1242	Kd	Kd	\Graphical Panels\Popup Windows\PID_1_Huile\Texte02
+1235	sec	сек	\Graphical Panels\Popup Windows\PID_1_Huile\Texte06
+1234	sec	сек	\Graphical Panels\Popup Windows\PID_1_Huile\Texte05
+1233	°c	°c	\Graphical Panels\Popup Windows\PID_1_Huile\Texte07
+1232	300,0	300,0	\Graphical Panels\Popup Windows\PID_1_Huile\Texte06
+1261	sec	сек	\Graphical Panels\Popup Windows\PID_2_Huile\Texte06
+1260	sec	сек	\Graphical Panels\Popup Windows\PID_2_Huile\Texte05
+1259	°c	°c	\Graphical Panels\Popup Windows\PID_2_Huile\Texte07
+1258	300,0	300,0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte06
+1257	0	0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte05
+1256	%	%	\Graphical Panels\Popup Windows\PID_2_Huile\Texte14
+1255	100,0	100,0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte13
+1254	0	0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte12
+1253	°c	°c	\Graphical Panels\Popup Windows\PID_2_Huile\Texte04
+1252	300,0	300,0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte03
+1251	0	0	\Graphical Panels\Popup Windows\PID_2_Huile\Texte02
+1249	Regulateur Huile PID 2	Регулятор масла PID 2	\Graphical Panels\Popup Windows\PID_2_Huile\Texte01
+1279	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1278	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1277	Compare Mismatch	Нет совпадения	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1276	Compare Match	Совпадение	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1275	Error	Ошибка	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1274	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1273	Idle	Ожидание	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1270	Ki	Ki	\Graphical Panels\Popup Windows\PID_2_Huile\Texte04
+1269	Kp	Kp	\Graphical Panels\Popup Windows\PID_2_Huile\Texte03
+1268	Kd	Kd	\Graphical Panels\Popup Windows\PID_2_Huile\Texte02
+1295	Insufficient Disk Space	Мало места на диске	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1294	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1293	Invalid Operation	Некорректная операция	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1292	Operation Locked	Операция недоступна	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1291	Invalid Recipe	Некорректный рецепт	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1290	Invalid Recipe Group	Некорректная группа рецептов	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1289	Communication Error	Ошибка связи	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1288	No Error	Нет ошибок	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1287	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1286	Comparing	Сравнение	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1285	Saving	Сохранение	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1284	Loading	Загрузка	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1283	Receiving	Получение	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1282	Sending	Отправка	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1281	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1280	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Temp\TextStatus
+1299	Unknown Error	Неизвестная ошибка	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1298	Denied - Maintenance Mode	Запрет - Режим обслуживания	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1297	Invalid Access Right	Некорректный уровень доступа	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1296	Invalid File	Некорректный файл	\Graphical Panels\Popup Windows\Recettes_Temp\TextError
+1332	> max.:	> max.:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte04
+1335	Min. - Max.:	Min. - Max.:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte02
+1338	< min.:	< min.:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte01
+1341	Hystérèse:	Гистерезис:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte23
+1344	Hystérèse:	Гистерезис:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte05
+1347	Ouverture presse:	Открытие пресса:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte08
+1350	Arret pompe BP:	Стоп насоса НД:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte07
+1351	Honeywell	Honeywell	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Commutateur03\Label\Off
+1352	Vijeo	Vijeo	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Commutateur03\Label\On
+1353	Système de régulation sur:	Источник управления:	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte06
+1354	Parramètre régulation pression	Параметры управления давлением	\Graphical Panels\Popup Windows\Parra_Reg_Pression\Texte03
+1355	Parramètre régulation pression	Параметры управления давлением	\Graphical Panels\Base Panels\Ecran80\Texte01
+1356	Parramètre pont à ventouse	Параметры вакуумного манипулятора	\Graphical Panels\Base Panels\Ecran80\Texte02
+1357	Parramètre pont à ventouse	Параметры вакуумного манипулятора	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte03
+1358	Hyst déchergement:	Точность перемещения	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte07
+1361	Position pont:	Положение:	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte08
+1364	Arret garage:	Остановка в гараже:	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte23
+1367	Arret déchargement:	Овтановка разгрузки:	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte04
+1370	Arret chargement:	Остановка загрузки:	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte05
+1373	Petite vit. 1:	Малая скорость 1:	\Graphical Panels\Popup Windows\Parra_Pont_Ventouse\Texte06
+1376	Parramètre PID 2 Huile	Параметры PID 2 масла	\Graphical Panels\Base Panels\Ecran80\Texte02
+1377	Parramètre PID 1 Huile	Параметры PID 1 масла	\Graphical Panels\Base Panels\Ecran80\Texte01
+1378	Manu	Руч.	\Graphical Panels\Popup Windows\PID_2_Huile\Commutateur01\Label\Off
+1379	Auto	Авто.	\Graphical Panels\Popup Windows\PID_2_Huile\Commutateur01\Label\On
+1382	Idle	Ожидание	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1383	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1384	Error	Ошибка	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1385	Compare Match	Совпадение	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1386	Compare Mismatch	Нет совпадения	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1387	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1388	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1389	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1390	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1391	Sending	Отправка	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1392	Receiving	Получение	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1393	Loading	Загрузка	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1394	Saving	Сохранение	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1395	Comparing	Сравнение	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1396	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextStatus
+1397	No Error	Нет ошибок	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1398	Communication Error	Ошибка связи	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1399	Invalid Recipe Group	Некорректная группа рецептов	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1400	Invalid Recipe	Некорректный рецепт	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1401	Operation Locked	Операция недоступна	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1402	Invalid Operation	Некорректная операция	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1403	Busy	В работе	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1404	Insufficient Disk Space	Мало места на диске	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1405	Invalid File	Некорректный файл	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1406	Invalid Access Right	Некорректный уровень доступа	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1407	Denied - Maintenance Mode	Запрет - Режим обслуживания	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1408	Unknown Error	Неизвестная ошибка	\Graphical Panels\Popup Windows\Recettes_Pres\TextError
+1418	Recipes	Recipes	\Graphical Panels\Base Panels\Ecran20\Text01
+1420	Idle	Ожидание	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1421	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1422	Error	Ошибка	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1423	Compare Match	Совпадение	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1424	Compare Mismatch	Нет совпадения	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1425	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1426	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1427	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1428	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1429	Sending	Отправка	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1430	Receiving	Получение	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1431	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1432	Saving	Сохранение	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1433	Comparing	Сравнение	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1434	Busy	В работе	\Graphical Panels\Base Panels\Ecran20\TextStatus
+1535	Recipes	Recipes	\Graphical Panels\Popup Windows\Recettes_Temp\Text01
+1537	Recette	Recipe	\Graphical Panels\Popup Windows\Recettes_Temp\Texte01
+1538	Programme régulation Température	Temperature regulation program	\Graphical Panels\Popup Windows\Recettes_Temp\Texte02
+1539	Recipes	Recipes	\Graphical Panels\Popup Windows\Recettes_Pres\Text01
+1541	Recette	Recipe	\Graphical Panels\Popup Windows\Recettes_Pres\Texte01
+1542	Programme régulation Pression	Pressure regulation program	\Graphical Panels\Popup Windows\Recettes_Pres\Texte02
+1543	Batterie 1	Батарея 1	\Graphical Panels\Base Panels\Ecran10\Texte16
+1544	Batterie 7	Батарея 7	\Graphical Panels\Base Panels\Ecran10\Texte14
+1545	Batterie 6	Батарея 6	\Graphical Panels\Base Panels\Ecran10\Texte04
+1546	Batterie 5	Батарея 5	\Graphical Panels\Base Panels\Ecran10\Texte12
+1547	Batterie 4	Батарея 4	\Graphical Panels\Base Panels\Ecran10\Texte02
+1548	Batterie 3	Батарея 3	\Graphical Panels\Base Panels\Ecran10\Texte03
+1549	Batterie 2	Батарея 2	\Graphical Panels\Base Panels\Ecran10\Texte15
+1577	RAZ	В 0	\Graphical Panels\Base Panels\Ecran20\Commutateur06
+1578	HOLD	Удерж	\Graphical Panels\Base Panels\Ecran20\Commutateur05
+1579	RUN	RUN	\Graphical Panels\Base Panels\Ecran20\Commutateur04
+1605	Create New	Создать новый	\Graphical Panels\Popup Windows\Recettes\CreateNewRecipe\CreateNewButtonText
+1604	Create New	Создать новый	\Graphical Panels\Popup Windows\Recettes\Text06
+1626	Idle	Ожидание	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1627	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1628	Error	Ошибка	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1629	Compare Match	Совпадение	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1630	Compare Mismatch	Нет совпадения	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1631	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1632	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1633	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1634	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1635	Sending	Отправка	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1636	Receiving	Получение	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1637	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1638	Saving	Сохранение	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1639	Comparing	Сравнение	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1640	Busy	В работе	\Graphical Panels\Base Panels\Ecran30\TextStatus
+1641	Recipes	Recipes	\Graphical Panels\Base Panels\Ecran30\Text01
+1643	RAZ	В 0	\Graphical Panels\Base Panels\Ecran30\Commutateur06
+1644	HOLD	Удерж	\Graphical Panels\Base Panels\Ecran30\Commutateur05
+1645	RUN	RUN	\Graphical Panels\Base Panels\Ecran30\Commutateur04
+1646			\Resource Library\Text\RessourceTexte002\State\Invalid
+1647	Segment 1	Сегмент 1	\Resource Library\Text\RessourceTexte002\State\0
+1648	Segment 2	Сегмент 2	\Resource Library\Text\RessourceTexte002\State\1
+1649	Segment 3	Сегмент 3	\Resource Library\Text\RessourceTexte002\State\2
+1650	Segment 4	Сегмент 4	\Resource Library\Text\RessourceTexte002\State\3
+1651	Segment 5	Сегмент 5	\Resource Library\Text\RessourceTexte002\State\4
+1678	Pression\nProgramme	Программа\nдавления	\Graphical Panels\Base Panels\Ecran80\Commutateur03
+1691	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte11
+1690	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte10
+1689	TM	TM	\Graphical Panels\Popup Windows\Program_Pression\Texte08
+1688	SP	Уст	\Graphical Panels\Popup Windows\Program_Pression\Texte07
+1687	EP3	EP3	\Graphical Panels\Popup Windows\Program_Pression\Texte06
+1685	EP2	EP2	\Graphical Panels\Popup Windows\Program_Pression\Texte04
+1682	EP1	EP1	\Graphical Panels\Popup Windows\Program_Pression\Texte02
+1681	EPDV1	EPDV1	\Graphical Panels\Popup Windows\Program_Pression\Texte01
+1680	EPPV1	EPPV1	\Graphical Panels\Popup Windows\Program_Pression\Texte09
+1711	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte18
+1710	EP6	EP6	\Graphical Panels\Popup Windows\Program_Pression\Texte17
+1709	EP5	EP5	\Graphical Panels\Popup Windows\Program_Pression\Texte16
+1708	EP4	EP4	\Graphical Panels\Popup Windows\Program_Pression\Texte09
+1703	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte15
+1702	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte14
+1697	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte13
+1696	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte12
+1727	Ton_Ev1_Pression_1	Ton_Ev1_Давление_1	\Recipes\Pressure_Group\Ingredient\16
+1726	TM_Pression_1	TM_Давление_1	\Recipes\Pressure_Group\Ingredient\6
+1725	SP_Pression_1	SP_Давление_1	\Recipes\Pressure_Group\Ingredient\1
+1724	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte23
+1723	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte22
+1718	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte21
+1717	ON	Вкл	\Graphical Panels\Popup Windows\Program_Pression\Texte20
+1712	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Pression\Texte19
+1743	SP_Pression_5	Уст_Давление_5	\Recipes\Pressure_Group\Ingredient\5
+1741	EPDV_Max_Pression_1	EPDV_Max_Давление_1	\Recipes\Pressure_Group\Ingredient\86
+1740	EPDV_Min_Pression_1	EPDV_Min_Давление_1	\Recipes\Pressure_Group\Ingredient\81
+1739	EPPV_Pression_1	EPPV_Давление_1	\Recipes\Pressure_Group\Ingredient\76
+1738	Toff_Ev6_Pression_1	Toff_Ev6_Давление_1	\Recipes\Pressure_Group\Ingredient\71
+1737	Ton_Ev6_Pression_1	Ton_Ev6_Давление_1	\Recipes\Pressure_Group\Ingredient\66
+1736	Toff_Ev5_Pression_1	Toff_Ev5_Давление_1	\Recipes\Pressure_Group\Ingredient\61
+1735	Ton_Ev5_Pression_1	Ton_Ev5_Давление_1	\Recipes\Pressure_Group\Ingredient\56
+1734	Toff_Ev4_Pression_1	Toff_Ev4_Давление_1	\Recipes\Pressure_Group\Ingredient\51
+1733	Ton_Ev4_Pression_1	Ton_Ev4_Давление_1	\Recipes\Pressure_Group\Ingredient\46
+1732	Toff_Ev3_Pression_1	Toff_Ev3_Давление_1	\Recipes\Pressure_Group\Ingredient\41
+1731	Ton_Ev3_Pression_1	Ton_Ev3_Давление_1	\Recipes\Pressure_Group\Ingredient\36
+1730	Toff_Ev2_Pression_1	Toff_Ev2_Давление_1	\Recipes\Pressure_Group\Ingredient\31
+1729	Ton_Ev2_Pression_1	Ton_Ev2_Давление_1	\Recipes\Pressure_Group\Ingredient\26
+1728	Toff_Ev1_Pression_1	Toff_Ev1_Давление_1	\Recipes\Pressure_Group\Ingredient\21
+1759	EPPV_Pression_2	EPPV_Давление_2	\Recipes\Pressure_Group\Ingredient\77
+1758	EPPV_Pression_3	EPPV_Давление_3	\Recipes\Pressure_Group\Ingredient\78
+1757	EPPV_Pression_4	EPPV_Давление_4	\Recipes\Pressure_Group\Ingredient\79
+1756	EPPV_Pression_5	EPPV_Давление_5	\Recipes\Pressure_Group\Ingredient\80
+1755	Ep_Pression_1	Ep_Давление_1	\Recipes\Pressure_Group\Ingredient\11
+1754	Ep_Pression_2	Ep_Давление_2	\Recipes\Pressure_Group\Ingredient\12
+1753	Ep_Pression_3	Ep_Давление_3	\Recipes\Pressure_Group\Ingredient\13
+1752	Ep_Pression_4	Ep_Давление_4	\Recipes\Pressure_Group\Ingredient\14
+1751	Ep_Pression_5	Ep_Давление_5	\Recipes\Pressure_Group\Ingredient\15
+1750	TM_Pression_2	TM_Давление_2	\Recipes\Pressure_Group\Ingredient\7
+1749	TM_Pression_3	TM_Давление_3	\Recipes\Pressure_Group\Ingredient\8
+1748	TM_Pression_4	TM_Давление_4	\Recipes\Pressure_Group\Ingredient\9
+1747	TM_Pression_5	TM_Давление_5	\Recipes\Pressure_Group\Ingredient\10
+1746	SP_Pression_2	Уст_Давление_2	\Recipes\Pressure_Group\Ingredient\2
+1745	SP_Pression_3	Уст_Давление_3	\Recipes\Pressure_Group\Ingredient\3
+1744	SP_Pression_4	Уст_Давление_4	\Recipes\Pressure_Group\Ingredient\4
+1775	ETPV1	ETPV1	\Graphical Panels\Popup Windows\Program_Temperature\Texte09
+1772	ETDV1	ETDV1	\Graphical Panels\Popup Windows\Program_Temperature\Texte02
+1767	EPDV_Max_Pression_5	EPDV_Max_Давление_5	\Recipes\Pressure_Group\Ingredient\90
+1766	EPDV_Max_Pression_4	EPDV_Max_Давление_4	\Recipes\Pressure_Group\Ingredient\89
+1765	EPDV_Max_Pression_3	EPDV_Max_Давление_3	\Recipes\Pressure_Group\Ingredient\88
+1764	EPDV_Max_Pression_2	EPDV_Max_Давление_2	\Recipes\Pressure_Group\Ingredient\87
+1763	EPDV_Min_Pression_2	EPDV_Min_Давление_2	\Recipes\Pressure_Group\Ingredient\82
+1762	EPDV_Min_Pression_3	EPDV_Min_Давление_3	\Recipes\Pressure_Group\Ingredient\83
+1761	EPDV_Min_Pression_4	EPDV_Min_Давление_4	\Recipes\Pressure_Group\Ingredient\84
+1760	EPDV_Min_Pression_5	EPDV_Min_Давление_5	\Recipes\Pressure_Group\Ingredient\85
+1789	ET2	EP2	\Graphical Panels\Popup Windows\Program_Temperature\Texte04
+1788	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte11
+1787	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte10
+1786	ET1	EP1	\Graphical Panels\Popup Windows\Program_Temperature\Texte03
+1781	TM	TM	\Graphical Panels\Popup Windows\Program_Temperature\Texte01
+1780	SP	Уст	\Graphical Panels\Popup Windows\Program_Temperature\Texte07
+1803	ET6	EP6	\Graphical Panels\Popup Windows\Program_Temperature\Texte17
+1802	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte15
+1801	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte14
+1796	ET3	EP3	\Graphical Panels\Popup Windows\Program_Temperature\Texte06
+1795	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte13
+1794	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte12
+1823	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte19
+1822	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte18
+1821	ET4	EP4	\Graphical Panels\Popup Windows\Program_Temperature\Texte05
+1816	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte21
+1815	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte20
+1810	ET5	EP5	\Graphical Panels\Popup Windows\Program_Temperature\Texte16
+1809	OFF	Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte23
+1808	ON	Вкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte22
+1837	Toff_Ev1_Pression_2	Toff_Ev1_Давление_2	\Recipes\Pressure_Group\Ingredient\22
+1836	Toff_Ev1_Pression_3	Toff_Ev1_Давление_3	\Recipes\Pressure_Group\Ingredient\23
+1835	Toff_Ev1_Pression_4	Toff_Ev1_Давление_4	\Recipes\Pressure_Group\Ingredient\24
+1834	Toff_Ev1_Pression_5	Toff_Ev1_Давление_5	\Recipes\Pressure_Group\Ingredient\25
+1833	Ton_Ev1_Pression_2	Ton_Ev1_Давление_2	\Recipes\Pressure_Group\Ingredient\17
+1830	Ton_Ev1_Pression_5	Ton_Ev1_Давление_5	\Recipes\Pressure_Group\Ingredient\20
+1829	Temperature\nProgramme	Программа\nТемпературы	\Graphical Panels\Base Panels\Ecran80\Commutateur05
+1828	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur02\Label\On
+1827	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur02\Label\Off
+1824	SP-TM	Уст-TM	\Graphical Panels\Popup Windows\Program_Temperature\Texte08
+1838	Ton_Ev2_Pression_5	Ton_Ev2_Давление_5	\Recipes\Pressure_Group\Ingredient\30
+1839	Ton_Ev2_Pression_4	Ton_Ev2_Давление_4	\Recipes\Pressure_Group\Ingredient\29
+1840	Ton_Ev2_Pression_3	Ton_Ev2_Давление_3	\Recipes\Pressure_Group\Ingredient\28
+1841	Ton_Ev2_Pression_2	Ton_Ev2_Давление_2	\Recipes\Pressure_Group\Ingredient\27
+1842	Toff_Ev2_Pression_5	Toff_Ev2_Давление_5	\Recipes\Pressure_Group\Ingredient\35
+1843	Toff_Ev2_Pression_4	Toff_Ev2_Давление_4	\Recipes\Pressure_Group\Ingredient\34
+1844	Toff_Ev2_Pression_3	Toff_Ev2_Давление_3	\Recipes\Pressure_Group\Ingredient\33
+1845	Toff_Ev2_Pression_2	Toff_Ev2_Давление_2	\Recipes\Pressure_Group\Ingredient\32
+1846	Ton_Ev3_Pression_5	Ton_Ev3_Давление_5	\Recipes\Pressure_Group\Ingredient\40
+1847	Ton_Ev3_Pression_4	Ton_Ev3_Давление_4	\Recipes\Pressure_Group\Ingredient\39
+1848	Ton_Ev3_Pression_3	Ton_Ev3_Давление_3	\Recipes\Pressure_Group\Ingredient\38
+1849	Ton_Ev3_Pression_2	Ton_Ev3_Давление_2	\Recipes\Pressure_Group\Ingredient\37
+1850	Toff_Ev3_Pression_5	Toff_Ev3_Давление_5	\Recipes\Pressure_Group\Ingredient\45
+1851	Toff_Ev3_Pression_4	Toff_Ev3_Давление_4	\Recipes\Pressure_Group\Ingredient\44
+1852	Toff_Ev3_Pression_3	Toff_Ev3_Давление_3	\Recipes\Pressure_Group\Ingredient\43
+1853	Toff_Ev3_Pression_2	Toff_Ev3_Давление_2	\Recipes\Pressure_Group\Ingredient\42
+1854	Ton_Ev4_Pression_5	Ton_Ev4_Давление_5	\Recipes\Pressure_Group\Ingredient\50
+1855	Ton_Ev4_Pression_4	Ton_Ev4_Давление_4	\Recipes\Pressure_Group\Ingredient\49
+1856	Ton_Ev4_Pression_3	Ton_Ev4_Давление_3	\Recipes\Pressure_Group\Ingredient\48
+1857	Ton_Ev4_Pression_2	Ton_Ev4_Давление_2	\Recipes\Pressure_Group\Ingredient\47
+1858	Toff_Ev4_Pression_5	Toff_Ev4_Давление_5	\Recipes\Pressure_Group\Ingredient\55
+1859	Toff_Ev4_Pression_4	Toff_Ev4_Давление_4	\Recipes\Pressure_Group\Ingredient\54
+1860	Toff_Ev4_Pression_3	Toff_Ev4_Давление_3	\Recipes\Pressure_Group\Ingredient\53
+1861	Toff_Ev4_Pression_2	Toff_Ev4_Давление_2	\Recipes\Pressure_Group\Ingredient\52
+1862	Ton_Ev5_Pression_5	Ton_Ev5_Давление_5	\Recipes\Pressure_Group\Ingredient\60
+1863	Ton_Ev5_Pression_4	Ton_Ev5_Давление_4	\Recipes\Pressure_Group\Ingredient\59
+1864	Ton_Ev5_Pression_3	Ton_Ev5_Давление_3	\Recipes\Pressure_Group\Ingredient\58
+1865	Ton_Ev5_Pression_2	Ton_Ev5_Давление_2	\Recipes\Pressure_Group\Ingredient\57
+1867	Toff_Ev5_Pression_5	Toff_Ev5_Давление_5	\Recipes\Pressure_Group\Ingredient\65
+1868	Toff_Ev5_Pression_4	Toff_Ev5_Давление_4	\Recipes\Pressure_Group\Ingredient\64
+1869	Toff_Ev5_Pression_3	Toff_Ev5_Давление_3	\Recipes\Pressure_Group\Ingredient\63
+1870	Toff_Ev5_Pression_2	Toff_Ev5_Давление_2	\Recipes\Pressure_Group\Ingredient\62
+1871	Ton_Ev6_Pression_5	Ton_Ev6_Давление_5	\Recipes\Pressure_Group\Ingredient\70
+1872	Ton_Ev6_Pression_4	Ton_Ev6_Давление_4	\Recipes\Pressure_Group\Ingredient\69
+1873	Ton_Ev6_Pression_3	Ton_Ev6_Давление_3	\Recipes\Pressure_Group\Ingredient\68
+1874	Ton_Ev6_Pression_2	Ton_Ev6_Давление_2	\Recipes\Pressure_Group\Ingredient\67
+1875	Toff_Ev6_Pression_5	Toff_Ev6_Давление_5	\Recipes\Pressure_Group\Ingredient\75
+1876	Toff_Ev6_Pression_4	Toff_Ev6_Давление_4	\Recipes\Pressure_Group\Ingredient\74
+1877	Toff_Ev6_Pression_3	Toff_Ev6_Давление_3	\Recipes\Pressure_Group\Ingredient\73
+1878	Toff_Ev6_Pression_2	Toff_Ev6_Давление_2	\Recipes\Pressure_Group\Ingredient\72
+1879	Ton_Ev1_Pression_4	Ton_Ev1_Давление_4	\Recipes\Pressure_Group\Ingredient\19
+1880	Ton_Ev1_Pression_3	Ton_Ev1_Давление_3	\Recipes\Pressure_Group\Ingredient\18
+1887	SP:	Уст:	\Graphical Panels\Base Panels\Ecran20\Texte03
+1892	SP:	Уст:	\Graphical Panels\Base Panels\Ecran30\Texte03
+1895			\Resource Library\Text\RessourceTexte003\State\Invalid
+1896	Segment 1	Сегмент 1	\Resource Library\Text\RessourceTexte003\State\0
+1897	Segment 2	Сегмент 2	\Resource Library\Text\RessourceTexte003\State\1
+1898	Segment 3	Сегмент 3	\Resource Library\Text\RessourceTexte003\State\2
+1899	Segment 4	Сегмент 4	\Resource Library\Text\RessourceTexte003\State\3
+1900	Segment 5	Сегмент 5	\Resource Library\Text\RessourceTexte003\State\4
+1901	Segment 6	Сегмент 6	\Resource Library\Text\RessourceTexte003\State\5
+1902	Segment 7	Сегмент 7	\Resource Library\Text\RessourceTexte003\State\6
+1903	Segment 8	Сегмент 8	\Resource Library\Text\RessourceTexte003\State\7
+1904	Segment 9	Сегмент 9	\Resource Library\Text\RessourceTexte003\State\8
+1906	Segment 10	Сегмент 10	\Resource Library\Text\RessourceTexte003\State\9
+1907			\Resource Library\Text\RessourceTexte003\State\10
+1915	SP_Temperature_2	SP_Температура_2	\Recipes\Temperature_Group\Ingredient\2
+1916	SP_Temperature_3	SP_Температура_3	\Recipes\Temperature_Group\Ingredient\3
+1917	SP_Temperature_4	SP_Температура_4	\Recipes\Temperature_Group\Ingredient\4
+1918	SP_Temperature_5	SP_Температура_5	\Recipes\Temperature_Group\Ingredient\5
+1919	SP_Temperature_6	SP_Температура_6	\Recipes\Temperature_Group\Ingredient\6
+1920	SP_Temperature_7	SP_Температура_7	\Recipes\Temperature_Group\Ingredient\7
+1921	SP_Temperature_8	SP_Температура_8	\Recipes\Temperature_Group\Ingredient\8
+1922	SP_Temperature_9	SP_Температура_9	\Recipes\Temperature_Group\Ingredient\9
+1923	SP_Temperature_10	SP_Температура_10	\Recipes\Temperature_Group\Ingredient\10
+1924	TM_Temperature_1	TM_Температура_1	\Recipes\Temperature_Group\Ingredient\11
+1925	TM_Temperature_2	TM_Температура_2	\Recipes\Temperature_Group\Ingredient\12
+1926	TM_Temperature_3	TM_Температура_3	\Recipes\Temperature_Group\Ingredient\13
+1927	TM_Temperature_4	TM_Температура_4	\Recipes\Temperature_Group\Ingredient\14
+1928	TM_Temperature_5	TM_Температура_5	\Recipes\Temperature_Group\Ingredient\15
+1929	TM_Temperature_6	TM_Температура_6	\Recipes\Temperature_Group\Ingredient\16
+1930	TM_Temperature_7	TM_Температура_7	\Recipes\Temperature_Group\Ingredient\17
+1931	TM_Temperature_8	TM_Температура_8	\Recipes\Temperature_Group\Ingredient\18
+1932	TM_Temperature_9	TM_Температура_9	\Recipes\Temperature_Group\Ingredient\19
+1933	TM_Temperature_10	TM_Температура_10	\Recipes\Temperature_Group\Ingredient\20
+1934	SPTM_Temperature_1	SPTM_Температура_1	\Recipes\Temperature_Group\Ingredient\21
+1935	SPTM_Temperature_2	SPTM_Температура_2	\Recipes\Temperature_Group\Ingredient\22
+1936	SPTM_Temperature_3	SPTM_Температура_3	\Recipes\Temperature_Group\Ingredient\23
+1937	SPTM_Temperature_4	SPTM_Температура_4	\Recipes\Temperature_Group\Ingredient\24
+1938	SPTM_Temperature_5	SPTM_Температура_5	\Recipes\Temperature_Group\Ingredient\25
+1939	SPTM_Temperature_6	SPTM_Температура_6	\Recipes\Temperature_Group\Ingredient\26
+1940	SPTM_Temperature_7	SPTM_Температура_7	\Recipes\Temperature_Group\Ingredient\27
+1941	SPTM_Temperature_8	SPTM_Температура_8	\Recipes\Temperature_Group\Ingredient\28
+1942	SPTM_Temperature_9	SPTM_Температура_9	\Recipes\Temperature_Group\Ingredient\29
+1943	SPTM_Temperature_10	SPTM_Температура_10	\Recipes\Temperature_Group\Ingredient\30
+1946	Et_Temperature_1	Et_Температура_1	\Recipes\Temperature_Group\Ingredient\31
+1947	Et_Temperature_2	Et_Температура_2	\Recipes\Temperature_Group\Ingredient\32
+1948	Et_Temperature_3	Et_Температура_3	\Recipes\Temperature_Group\Ingredient\33
+1949	Et_Temperature_4	Et_Температура_4	\Recipes\Temperature_Group\Ingredient\34
+1950	Et_Temperature_5	Et_Температура_5	\Recipes\Temperature_Group\Ingredient\35
+1951	Et_Temperature_6	Et_Температура_6	\Recipes\Temperature_Group\Ingredient\36
+1967	Toff_Ev1_Temperature_2	Toff_Ev1_Температура_2	\Recipes\Temperature_Group\Ingredient\52
+1966	Toff_Ev1_Temperature_1	Toff_Ev1_Температура_1	\Recipes\Temperature_Group\Ingredient\51
+1965	Ton_Ev1_Temperature_10	Ton_Ev1_Температура_10	\Recipes\Temperature_Group\Ingredient\50
+1964	Ton_Ev1_Temperature_9	Ton_Ev1_Температура_9	\Recipes\Temperature_Group\Ingredient\49
+1963	Ton_Ev1_Temperature_8	Ton_Ev1_Температура_8	\Recipes\Temperature_Group\Ingredient\48
+1962	Ton_Ev1_Temperature_7	Ton_Ev1_Температура_7	\Recipes\Temperature_Group\Ingredient\47
+1961	Ton_Ev1_Temperature_6	Ton_Ev1_Температура_6	\Recipes\Temperature_Group\Ingredient\46
+1960	Ton_Ev1_Temperature_5	Ton_Ev1_Температура_5	\Recipes\Temperature_Group\Ingredient\45
+1959	Ton_Ev1_Temperature_4	Ton_Ev1_Температура_4	\Recipes\Temperature_Group\Ingredient\44
+1958	Ton_Ev1_Temperature_3	Ton_Ev1_Температура_3	\Recipes\Temperature_Group\Ingredient\43
+1957	Ton_Ev1_Temperature_2	Ton_Ev1_Температура_2	\Recipes\Temperature_Group\Ingredient\42
+1956	Ton_Ev1_Temperature_1	Ton_Ev1_Температура_1	\Recipes\Temperature_Group\Ingredient\41
+1952	Et_Temperature_7	Et_Температура_7	\Recipes\Temperature_Group\Ingredient\37
+1953	Et_Temperature_8	Et_Температура_8	\Recipes\Temperature_Group\Ingredient\38
+1954	Et_Temperature_9	Et_Температура_9	\Recipes\Temperature_Group\Ingredient\39
+1955	Et_Temperature_10	Et_Температура_10	\Recipes\Temperature_Group\Ingredient\40
+1983	Ton_Ev2_Temperature_8	Ton_Ev2_Температура_8	\Recipes\Temperature_Group\Ingredient\68
+1982	Ton_Ev2_Temperature_7	Ton_Ev2_Температура_7	\Recipes\Temperature_Group\Ingredient\67
+1981	Ton_Ev2_Temperature_6	Ton_Ev2_Температура_6	\Recipes\Temperature_Group\Ingredient\66
+1980	Ton_Ev2_Temperature_5	Ton_Ev2_Температура_5	\Recipes\Temperature_Group\Ingredient\65
+1979	Ton_Ev2_Temperature_4	Ton_Ev2_Температура_4	\Recipes\Temperature_Group\Ingredient\64
+1978	Ton_Ev2_Temperature_3	Ton_Ev2_Температура_3	\Recipes\Temperature_Group\Ingredient\63
+1977	Ton_Ev2_Temperature_2	Ton_Ev2_Температура_2	\Recipes\Temperature_Group\Ingredient\62
+1976	Ton_Ev2_Temperature_1	Ton_Ev2_Температура_1	\Recipes\Temperature_Group\Ingredient\61
+1975	Toff_Ev1_Temperature_10	Toff_Ev1_Температура_10	\Recipes\Temperature_Group\Ingredient\60
+1974	Toff_Ev1_Temperature_9	Toff_Ev1_Температура_9	\Recipes\Temperature_Group\Ingredient\59
+1973	Toff_Ev1_Temperature_8	Toff_Ev1_Температура_8	\Recipes\Temperature_Group\Ingredient\58
+1972	Toff_Ev1_Temperature_7	Toff_Ev1_Температура_7	\Recipes\Temperature_Group\Ingredient\57
+1971	Toff_Ev1_Temperature_6	Toff_Ev1_Температура_6	\Recipes\Temperature_Group\Ingredient\56
+1970	Toff_Ev1_Temperature_5	Toff_Ev1_Температура_5	\Recipes\Temperature_Group\Ingredient\55
+1969	Toff_Ev1_Temperature_4	Toff_Ev1_Температура_4	\Recipes\Temperature_Group\Ingredient\54
+1968	Toff_Ev1_Temperature_3	Toff_Ev1_Температура_3	\Recipes\Temperature_Group\Ingredient\53
+1999	Ton_Ev3_Temperature_4	Ton_Ev3_Температура_4	\Recipes\Temperature_Group\Ingredient\84
+1998	Ton_Ev3_Temperature_3	Ton_Ev3_Температура_3	\Recipes\Temperature_Group\Ingredient\83
+1997	Ton_Ev3_Temperature_2	Ton_Ev3_Температура_2	\Recipes\Temperature_Group\Ingredient\82
+1996	Ton_Ev3_Temperature_1	Ton_Ev3_Температура_1	\Recipes\Temperature_Group\Ingredient\81
+1995	Toff_Ev2_Temperature_10	Toff_Ev2_Температура_10	\Recipes\Temperature_Group\Ingredient\80
+1994	Toff_Ev2_Temperature_9	Toff_Ev2_Температура_9	\Recipes\Temperature_Group\Ingredient\79
+1993	Toff_Ev2_Temperature_8	Toff_Ev2_Температура_8	\Recipes\Temperature_Group\Ingredient\78
+1992	Toff_Ev2_Temperature_7	Toff_Ev2_Температура_7	\Recipes\Temperature_Group\Ingredient\77
+1991	Toff_Ev2_Temperature_6	Toff_Ev2_Температура_6	\Recipes\Temperature_Group\Ingredient\76
+1990	Toff_Ev2_Temperature_5	Toff_Ev2_Температура_5	\Recipes\Temperature_Group\Ingredient\75
+1989	Toff_Ev2_Temperature_4	Toff_Ev2_Температура_4	\Recipes\Temperature_Group\Ingredient\74
+1988	Toff_Ev2_Temperature_3	Toff_Ev2_Температура_3	\Recipes\Temperature_Group\Ingredient\73
+1987	Toff_Ev2_Temperature_2	Toff_Ev2_Температура_2	\Recipes\Temperature_Group\Ingredient\72
+1986	Toff_Ev2_Temperature_1	Toff_Ev2_Температура_1	\Recipes\Temperature_Group\Ingredient\71
+1985	Ton_Ev2_Temperature_10	Ton_Ev2_Температура_10	\Recipes\Temperature_Group\Ingredient\70
+1984	Ton_Ev2_Temperature_9	Ton_Ev2_Температура_9	\Recipes\Temperature_Group\Ingredient\69
+2015	Toff_Ev3_Temperature_10	Toff_Ev3_Температура_10	\Recipes\Temperature_Group\Ingredient\100
+2014	Toff_Ev3_Temperature_9	Toff_Ev3_Температура_9	\Recipes\Temperature_Group\Ingredient\99
+2013	Toff_Ev3_Temperature_8	Toff_Ev3_Температура_8	\Recipes\Temperature_Group\Ingredient\98
+2012	Toff_Ev3_Temperature_7	Toff_Ev3_Температура_7	\Recipes\Temperature_Group\Ingredient\97
+2011	Toff_Ev3_Temperature_6	Toff_Ev3_Температура_6	\Recipes\Temperature_Group\Ingredient\96
+2010	Toff_Ev3_Temperature_5	Toff_Ev3_Температура_5	\Recipes\Temperature_Group\Ingredient\95
+2009	Toff_Ev3_Temperature_4	Toff_Ev3_Температура_4	\Recipes\Temperature_Group\Ingredient\94
+2008	Toff_Ev3_Temperature_3	Toff_Ev3_Температура_3	\Recipes\Temperature_Group\Ingredient\93
+2007	Toff_Ev3_Temperature_2	Toff_Ev3_Температура_2	\Recipes\Temperature_Group\Ingredient\92
+2006	Toff_Ev3_Temperature_1	Toff_Ev3_Температура_1	\Recipes\Temperature_Group\Ingredient\91
+2005	Ton_Ev3_Temperature_10	Ton_Ev3_Температура_10	\Recipes\Temperature_Group\Ingredient\90
+2004	Ton_Ev3_Temperature_9	Ton_Ev3_Температура_9	\Recipes\Temperature_Group\Ingredient\89
+2003	Ton_Ev3_Temperature_8	Ton_Ev3_Температура_8	\Recipes\Temperature_Group\Ingredient\88
+2002	Ton_Ev3_Temperature_7	Ton_Ev3_Температура_7	\Recipes\Temperature_Group\Ingredient\87
+2001	Ton_Ev3_Temperature_6	Ton_Ev3_Температура_6	\Recipes\Temperature_Group\Ingredient\86
+2000	Ton_Ev3_Temperature_5	Ton_Ev3_Температура_5	\Recipes\Temperature_Group\Ingredient\85
+2031	Toff_Ev4_Temperature_6	Toff_Ev4_Температура_6	\Recipes\Temperature_Group\Ingredient\116
+2030	Toff_Ev4_Temperature_5	Toff_Ev4_Температура_5	\Recipes\Temperature_Group\Ingredient\115
+2029	Toff_Ev4_Temperature_4	Toff_Ev4_Температура_4	\Recipes\Temperature_Group\Ingredient\114
+2028	Toff_Ev4_Temperature_3	Toff_Ev4_Температура_3	\Recipes\Temperature_Group\Ingredient\113
+2027	Toff_Ev4_Temperature_2	Toff_Ev4_Температура_2	\Recipes\Temperature_Group\Ingredient\112
+2026	Toff_Ev4_Temperature_1	Toff_Ev4_Температура_1	\Recipes\Temperature_Group\Ingredient\111
+2025	Ton_Ev4_Temperature_10	Ton_Ev4_Температура_10	\Recipes\Temperature_Group\Ingredient\110
+2024	Ton_Ev4_Temperature_9	Ton_Ev4_Температура_9	\Recipes\Temperature_Group\Ingredient\109
+2023	Ton_Ev4_Temperature_8	Ton_Ev4_Температура_8	\Recipes\Temperature_Group\Ingredient\108
+2022	Ton_Ev4_Temperature_7	Ton_Ev4_Температура_7	\Recipes\Temperature_Group\Ingredient\107
+2021	Ton_Ev4_Temperature_6	Ton_Ev4_Температура_6	\Recipes\Temperature_Group\Ingredient\106
+2020	Ton_Ev4_Temperature_5	Ton_Ev4_Температура_5	\Recipes\Temperature_Group\Ingredient\105
+2019	Ton_Ev4_Temperature_4	Ton_Ev4_Температура_4	\Recipes\Temperature_Group\Ingredient\104
+2018	Ton_Ev4_Temperature_3	Ton_Ev4_Температура_3	\Recipes\Temperature_Group\Ingredient\103
+2017	Ton_Ev4_Temperature_2	Ton_Ev4_Температура_2	\Recipes\Temperature_Group\Ingredient\102
+2016	Ton_Ev4_Temperature_1	Ton_Ev4_Температура_1	\Recipes\Temperature_Group\Ingredient\101
+2035	Toff_Ev4_Temperature_10	Toff_Ev4_Температура_10	\Recipes\Temperature_Group\Ingredient\120
+2034	Toff_Ev4_Temperature_9	Toff_Ev4_Температура_9	\Recipes\Temperature_Group\Ingredient\119
+2033	Toff_Ev4_Temperature_8	Toff_Ev4_Температура_8	\Recipes\Temperature_Group\Ingredient\118
+2032	Toff_Ev4_Temperature_7	Toff_Ev4_Температура_7	\Recipes\Temperature_Group\Ingredient\117
+2036	Ton_Ev5_Temperature_1	Ton_Ev5_Температура_1	\Recipes\Temperature_Group\Ingredient\121
+2037	Ton_Ev5_Temperature_2	Ton_Ev5_Температура_2	\Recipes\Temperature_Group\Ingredient\122
+2038	Ton_Ev5_Temperature_3	Ton_Ev5_Температура_3	\Recipes\Temperature_Group\Ingredient\123
+2039	Ton_Ev5_Temperature_4	Ton_Ev5_Температура_4	\Recipes\Temperature_Group\Ingredient\124
+2040	Ton_Ev5_Temperature_5	Ton_Ev5_Температура_5	\Recipes\Temperature_Group\Ingredient\125
+2041	Ton_Ev5_Temperature_6	Ton_Ev5_Температура_6	\Recipes\Temperature_Group\Ingredient\126
+2042	Ton_Ev5_Temperature_7	Ton_Ev5_Температура_7	\Recipes\Temperature_Group\Ingredient\127
+2043	Ton_Ev5_Temperature_8	Ton_Ev5_Температура_8	\Recipes\Temperature_Group\Ingredient\128
+2044	Ton_Ev5_Temperature_9	Ton_Ev5_Температура_9	\Recipes\Temperature_Group\Ingredient\129
+2045	Ton_Ev5_Temperature_10	Ton_Ev5_Температура_10	\Recipes\Temperature_Group\Ingredient\130
+2046	Toff_Ev5_Temperature_1	Toff_Ev5_Температура_1	\Recipes\Temperature_Group\Ingredient\131
+2047	Toff_Ev5_Temperature_2	Toff_Ev5_Температура_2	\Recipes\Temperature_Group\Ingredient\132
+2048	Toff_Ev5_Temperature_3	Toff_Ev5_Температура_3	\Recipes\Temperature_Group\Ingredient\133
+2049	Toff_Ev5_Temperature_4	Toff_Ev5_Температура_4	\Recipes\Temperature_Group\Ingredient\134
+2050	Toff_Ev5_Temperature_5	Toff_Ev5_Температура_5	\Recipes\Temperature_Group\Ingredient\135
+2051	Toff_Ev5_Temperature_6	Toff_Ev5_Температура_6	\Recipes\Temperature_Group\Ingredient\136
+2052	Toff_Ev5_Temperature_7	Toff_Ev5_Температура_7	\Recipes\Temperature_Group\Ingredient\137
+2053	Toff_Ev5_Temperature_8	Toff_Ev5_Температура_8	\Recipes\Temperature_Group\Ingredient\138
+2054	Toff_Ev5_Temperature_9	Toff_Ev5_Температура_9	\Recipes\Temperature_Group\Ingredient\139
+2055	Toff_Ev5_Temperature_10	Toff_Ev5_Температура_10	\Recipes\Temperature_Group\Ingredient\140
+2056	Ton_Ev6_Temperature_1	Ton_Ev6_Температура_1	\Recipes\Temperature_Group\Ingredient\141
+2057	Ton_Ev6_Temperature_2	Ton_Ev6_Температура_2	\Recipes\Temperature_Group\Ingredient\142
+2058	Ton_Ev6_Temperature_3	Ton_Ev6_Температура_3	\Recipes\Temperature_Group\Ingredient\143
+2059	Ton_Ev6_Temperature_4	Ton_Ev6_Температура_4	\Recipes\Temperature_Group\Ingredient\144
+2060	Ton_Ev6_Temperature_5	Ton_Ev6_Температура_5	\Recipes\Temperature_Group\Ingredient\145
+2061	Ton_Ev6_Temperature_6	Ton_Ev6_Температура_6	\Recipes\Temperature_Group\Ingredient\146
+2062	Ton_Ev6_Temperature_7	Ton_Ev6_Температура_7	\Recipes\Temperature_Group\Ingredient\147
+2063	Ton_Ev6_Temperature_8	Ton_Ev6_Температура_8	\Recipes\Temperature_Group\Ingredient\148
+2064	Ton_Ev6_Temperature_9	Ton_Ev6_Температура_9	\Recipes\Temperature_Group\Ingredient\149
+2065	Ton_Ev6_Temperature_10	Ton_Ev6_Температура_10	\Recipes\Temperature_Group\Ingredient\150
+2066	Toff_Ev6_Temperature_1	Toff_Ev6_Температура_1	\Recipes\Temperature_Group\Ingredient\151
+2067	Toff_Ev6_Temperature_2	Toff_Ev6_Температура_2	\Recipes\Temperature_Group\Ingredient\152
+2068	Toff_Ev6_Temperature_3	Toff_Ev6_Температура_3	\Recipes\Temperature_Group\Ingredient\153
+2069	Toff_Ev6_Temperature_4	Toff_Ev6_Температура_4	\Recipes\Temperature_Group\Ingredient\154
+2070	Toff_Ev6_Temperature_5	Toff_Ev6_Температура_5	\Recipes\Temperature_Group\Ingredient\155
+2071	Toff_Ev6_Temperature_6	Toff_Ev6_Температура_6	\Recipes\Temperature_Group\Ingredient\156
+2072	Toff_Ev6_Temperature_7	Toff_Ev6_Температура_7	\Recipes\Temperature_Group\Ingredient\157
+2073	Toff_Ev6_Temperature_8	Toff_Ev6_Температура_8	\Recipes\Temperature_Group\Ingredient\158
+2074	Toff_Ev6_Temperature_9	Toff_Ev6_Температура_9	\Recipes\Temperature_Group\Ingredient\159
+2075	Toff_Ev6_Temperature_10	Toff_Ev6_Температура_10	\Recipes\Temperature_Group\Ingredient\160
+2076	EPPV_Temperature_1	EPPV_Температура_1	\Recipes\Temperature_Group\Ingredient\161
+2077	EPPV_Temperature_2	EPPV_Температура_2	\Recipes\Temperature_Group\Ingredient\162
+2078	EPPV_Temperature_3	EPPV_Температура_3	\Recipes\Temperature_Group\Ingredient\163
+2079	EPPV_Temperature_4	EPPV_Температура_4	\Recipes\Temperature_Group\Ingredient\164
+2080	EPPV_Temperature_5	EPPV_Температура_5	\Recipes\Temperature_Group\Ingredient\165
+2081	EPPV_Temperature_6	EPPV_Температура_6	\Recipes\Temperature_Group\Ingredient\166
+2082	EPPV_Temperature_7	EPPV_Температура_7	\Recipes\Temperature_Group\Ingredient\167
+2083	EPPV_Temperature_8	EPPV_Температура_8	\Recipes\Temperature_Group\Ingredient\168
+2084	EPPV_Temperature_9	EPPV_Температура_9	\Recipes\Temperature_Group\Ingredient\169
+2085	EPPV_Temperature_10	EPPV_Температура_10	\Recipes\Temperature_Group\Ingredient\170
+2086	EPDV_Min_Temperature_1	EPDV_Min_Температура_1	\Recipes\Temperature_Group\Ingredient\171
+2087	EPDV_Min_Temperature_2	EPDV_Min_Температура_2	\Recipes\Temperature_Group\Ingredient\172
+2088	EPDV_Min_Temperature_3	EPDV_Min_Температура_3	\Recipes\Temperature_Group\Ingredient\173
+2089	EPDV_Min_Temperature_4	EPDV_Min_Температура_4	\Recipes\Temperature_Group\Ingredient\174
+2090	EPDV_Min_Temperature_5	EPDV_Min_Температура_5	\Recipes\Temperature_Group\Ingredient\175
+2091	EPDV_Min_Temperature_6	EPDV_Min_Температура_6	\Recipes\Temperature_Group\Ingredient\176
+2092	EPDV_Min_Temperature_7	EPDV_Min_Температура_7	\Recipes\Temperature_Group\Ingredient\177
+2093	EPDV_Min_Temperature_8	EPDV_Min_Температура_8	\Recipes\Temperature_Group\Ingredient\178
+2094	EPDV_Min_Temperature_9	EPDV_Min_Температура_9	\Recipes\Temperature_Group\Ingredient\179
+2095	EPDV_Min_Temperature_10	EPDV_Min_Температура_10	\Recipes\Temperature_Group\Ingredient\180
+2096	EPDV_Max_Temperature_1	EPDV_Max_Температура_1	\Recipes\Temperature_Group\Ingredient\181
+2097	EPDV_Max_Temperature_2	EPDV_Max_Температура_2	\Recipes\Temperature_Group\Ingredient\182
+2098	EPDV_Max_Temperature_3	EPDV_Max_Температура_3	\Recipes\Temperature_Group\Ingredient\183
+2099	EPDV_Max_Temperature_4	EPDV_Max_Температура_4	\Recipes\Temperature_Group\Ingredient\184
+2100	EPDV_Max_Temperature_5	EPDV_Max_Температура_5	\Recipes\Temperature_Group\Ingredient\185
+2101	EPDV_Max_Temperature_6	EPDV_Max_Температура_6	\Recipes\Temperature_Group\Ingredient\186
+2102	EPDV_Max_Temperature_7	EPDV_Max_Температура_7	\Recipes\Temperature_Group\Ingredient\187
+2103	EPDV_Max_Temperature_8	EPDV_Max_Температура_8	\Recipes\Temperature_Group\Ingredient\188
+2104	EPDV_Max_Temperature_9	EPDV_Max_Температура_9	\Recipes\Temperature_Group\Ingredient\189
+2105	EPDV_Max_Temperature_10	EPDV_Max_Температура_10	\Recipes\Temperature_Group\Ingredient\190
+2106	Program T3	Программа T3	\Recipes\Temperature_Group\Recipe\3
+2107	Program T4	Программа T4	\Recipes\Temperature_Group\Recipe\4
+2108	Program T5	Программа T5	\Recipes\Temperature_Group\Recipe\5
+2109	Program T6	Программа T6	\Recipes\Temperature_Group\Recipe\6
+2110	Program T7	Программа T7	\Recipes\Temperature_Group\Recipe\7
+2111	Program T8	Программа T8	\Recipes\Temperature_Group\Recipe\8
+2127	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur13\Label\On
+2126	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur13\Label\Off
+2125	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur08\Label\On
+2124	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur08\Label\Off
+2123	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur07\Label\On
+2122	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur07\Label\Off
+2121	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur06\Label\On
+2120	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur06\Label\Off
+2119	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur05\Label\On
+2118	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur05\Label\Off
+2112	Program T9	Программа T9	\Recipes\Temperature_Group\Recipe\9
+2113	Program T10	Программа T10	\Recipes\Temperature_Group\Recipe\10
+2114	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur03\Label\Off
+2115	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur03\Label\On
+2116	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur04\Label\Off
+2117	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur04\Label\On
+2131	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur15\Label\On
+2130	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur15\Label\Off
+2129	PID 2	PID 2	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur14\Label\On
+2128	PID 1	PID 1	\Graphical Panels\Popup Windows\Program_Temperature\Commutateur14\Label\Off
+2133	Programme de Pression:                   \n                                        \nPV    : Consigne pression (bar)\n\nTM    : Temps du segment (min)\n\nEP1   : Start pressage\nEP2   : Récupération cycle si erreur \nEP3   : Marche en phase 2 (basse pression)\nEP4   : Réserve\nEP5   : Réserve\nEP6   : Réserve\n\nEPPV1 : Erreur pression (<150 bar)\n\nEPDV1 : Erreur déviation pression (val min et max)\n                              	Programme de Pression:                   \n                                        \nPV    : Consigne pression (bar)\n\nTM    : Temps du segment (min)\n\nEP1   : Start pressage\nEP2   : Récupération cycle si erreur \nEP3   : Marche en phase 2 (basse pression)\nEP4   : Réserve\nEP5   : Réserve\nEP6   : Réserve\n\nEPPV1 : Erreur pression (<150 bar)\n\nEPDV1 : Erreur déviation pression (val min et max)\n                              	\Graphical Panels\Popup Windows\HelpPrgPression\Texte01
+2134	Programme de Température:                   \n                                       \nPV    : Consigne température (°c)\n\nTM    : Temps du segment (min)\n\nSP-TM : Rampe de montée en température (°c/min)\n\nET1   : Start chauffage\nET2   : Fin montée en température aspiration\nET3   : Start refroidissement\nET4   : Arrêt chauffage/refroidissement\nET5   : Fin préchauffage\nET6   : Ouverture presse\n\nETPV1 : Défaut température (<290°c)\n\nETDV1 : Injection eau de refroidissement      (val min et max)\n\nPID1  : Chauffage\nPID2  : Refroidissement                                                                      \n                              	Programme de Température:                   \n                                       \nPV    : Consigne température (°c)\n\nTM    : Temps du segment (min)\n\nSP-TM : Rampe de montée en température (°c/min)\n\nET1   : Start chauffage\nET2   : Fin montée en température aspiration\nET3   : Start refroidissement\nET4   : Arrêt chauffage/refroidissement\nET5   : Fin préchauffage\nET6   : Ouverture presse\n\nETPV1 : Défaut température (<290°c)\n\nETDV1 : Injection eau de refroidissement      (val min et max)\n\nPID1  : Chauffage\nPID2  : Refroidissement                                                                      \n                              	\Graphical Panels\Popup Windows\HelpPrgTemperature\Texte01
+2136	Program P1	Программа P1	\Recipes\Pressure_Group\Recipe\1
+2137	Program P2	Программа P2	\Recipes\Pressure_Group\Recipe\2
+2138	Program P3	Программа P3	\Recipes\Pressure_Group\Recipe\3
+2139	Program P4	Программа P4	\Recipes\Pressure_Group\Recipe\4
+2140	Program P5	Программа P5	\Recipes\Pressure_Group\Recipe\5
+2141	Program P6	Программа P6	\Recipes\Pressure_Group\Recipe\6
+2142	Program P7	Программа P7	\Recipes\Pressure_Group\Recipe\7
+2143	Program P8	Программа P8	\Recipes\Pressure_Group\Recipe\8
+2149	> OFF	> Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte25
+2148	< OFF	< Выкл	\Graphical Panels\Popup Windows\Program_Temperature\Texte24
+2147	Max.	Max.	\Graphical Panels\Popup Windows\Program_Pression\Texte03
+2146	Min.	Min.	\Graphical Panels\Popup Windows\Program_Pression\Texte02
+2144	Program P9	Program P9	\Recipes\Pressure_Group\Recipe\9
+2145	Program P10	Program P10	\Recipes\Pressure_Group\Recipe\10
+2151	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran50\Text13
+2153	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran50\Text13
+2155	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran50\Text05
+2156	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran50\Text05
+2157	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran50\Text01
+2159	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran50\Commutateur01
+2160	Trend	Тренд	\Graphical Panels\Base Panels\Ecran50\Commutateur06
+2161	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran50\Commutateur07
+2162	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran50\Commutateur04
+2163	Presse	Пресс	\Graphical Panels\Base Panels\Ecran50\Commutateur07
+2164	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran50\Commutateur07
+2165	Pressure	Давление	\Graphical Panels\Base Panels\Ecran50\Commutateur08
+2166	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran50\Commutateur07
+2197	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran50\Commutateur08
+2255	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\6
+2254	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\5
+2253	Compare Mismatch	Нет совпадения	\Resource Library\Text\RessourceTexte004\State\4
+2252	Compare Match	Совпадение	\Resource Library\Text\RessourceTexte004\State\3
+2251	Error	Ошибка	\Resource Library\Text\RessourceTexte004\State\2
+2250	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\1
+2249	Segment	Segment	\Resource Library\Text\RessourceTexte004\State\0
+2248	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\Invalid
+2247			\Resource Library\Text\RessourceTexte004\State\On
+2246			\Resource Library\Text\RessourceTexte004\State\Off
+2262	Comparing	Сравнение	\Resource Library\Text\RessourceTexte004\State\13
+2261	Saving	Сохранение	\Resource Library\Text\RessourceTexte004\State\12
+2260	Loading	Загрузка	\Resource Library\Text\RessourceTexte004\State\11
+2259	Receiving	Получение	\Resource Library\Text\RessourceTexte004\State\10
+2258	Sending	Отправка	\Resource Library\Text\RessourceTexte004\State\9
+2257	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\8
+2256	Busy	В работе	\Resource Library\Text\RessourceTexte004\State\7
+2277	SP-TM:	SP-TM:	\Graphical Panels\Base Panels\Ecran20\Texte09
+2291	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran10\Texte17
+2292	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran20\Texte17
+2293	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran30\Texte17
+2294	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran40\Texte17
+2295	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran50\Texte17
+2296	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran60\Texte17
+2297	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran61\Texte17
+2298	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran62\Texte17
+2299	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran70\Texte17
+2300	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran80\Texte17
+2301	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran90\Texte17
+2302	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran91\Texte17
+2303	Next	След.	\Graphical Panels\Base Panels\Ecran40\Texte13
+2304	mm/dd/yyyy	мм/дд/гггг	\Graphical Panels\Base Panels\Ecran41\Text13
+2306	24:00:00	24:00:00	\Graphical Panels\Base Panels\Ecran41\Text13
+2308	<< RU	<< RU	\Graphical Panels\Base Panels\Ecran41\Text05
+2309	FR >>	FR >>	\Graphical Panels\Base Panels\Ecran41\Text05
+2310	Alarm Banner	Баннер сообщений	\Graphical Panels\Base Panels\Ecran41\Text01
+2312	Alarmes	Сообщения	\Graphical Panels\Base Panels\Ecran41\Commutateur01
+2313	Trend	Тренд	\Graphical Panels\Base Panels\Ecran41\Commutateur06
+2314	E-Stops	Аварийные остановки	\Graphical Panels\Base Panels\Ecran41\Commutateur07
+2315	Configuration	Конфигурация	\Graphical Panels\Base Panels\Ecran41\Commutateur04
+2316	Presse	Пресс	\Graphical Panels\Base Panels\Ecran41\Commutateur07
+2317	Temperatur	Температура	\Graphical Panels\Base Panels\Ecran41\Commutateur07
+2318	Pressure	Давление	\Graphical Panels\Base Panels\Ecran41\Commutateur08
+2319	Maxxtec	Maxxtec	\Graphical Panels\Base Panels\Ecran41\Commutateur07
+2320	Loading	Загрузка	\Graphical Panels\Base Panels\Ecran41\Commutateur08
+2380	1-3	1-3	\Graphical Panels\Base Panels\Ecran41\Texte04
+2379	1-4	1-4	\Graphical Panels\Base Panels\Ecran41\Texte03
+2378	1-2	1-2	\Graphical Panels\Base Panels\Ecran41\Texte02
+2377	1-18	1-18	\Graphical Panels\Base Panels\Ecran41\Texte01
+2371	Presse en chargement:	Загрузка пресса:	\Graphical Panels\Base Panels\Ecran41\Texte13
+2372	Avant	Передняя	\Graphical Panels\Base Panels\Ecran41\Commutateur03\Label\Off
+2373	Arriere	Задняя	\Graphical Panels\Base Panels\Ecran41\Commutateur03\Label\On
+2374	COGEBI Services bv	COGEBI Services bv	\Graphical Panels\Base Panels\Ecran41\Texte17
+2376	Previous	Пред.	\Graphical Panels\Base Panels\Ecran41\Texte13
+2382	1-3	1-3	\Graphical Panels\Base Panels\Ecran41\Texte12
+2383	1-4	1-4	\Graphical Panels\Base Panels\Ecran41\Texte11
+2384	1-2	1-2	\Graphical Panels\Base Panels\Ecran41\Texte10
+2385	1-18	1-18	\Graphical Panels\Base Panels\Ecran41\Texte09
+2386	Groupe 3-4:	Группа 3-4:	\Graphical Panels\Base Panels\Ecran41\Texte01
+2387	Groupe 4-6-7:	Группа 4-6-7:	\Graphical Panels\Base Panels\Ecran41\Texte02
+2388	Manu	Руч.	\Graphical Panels\Base Panels\Ecran41\Commutateur02\Label\Off
+2389	Auto	Авто.	\Graphical Panels\Base Panels\Ecran41\Commutateur02\Label\On
+2390	Manu	Руч.	\Graphical Panels\Base Panels\Ecran41\Commutateur03\Label\Off
+2391	Auto	Авто.	\Graphical Panels\Base Panels\Ecran41\Commutateur03\Label\On
+2392	7	7	\Graphical Panels\Base Panels\Ecran41\Texte03
+2393	6	6	\Graphical Panels\Base Panels\Ecran41\Texte04
+2394	5	5	\Graphical Panels\Base Panels\Ecran41\Texte05
+2395	4	4	\Graphical Panels\Base Panels\Ecran41\Texte06
+2396	5	5	\Graphical Panels\Base Panels\Ecran41\Texte07
+2397	4	4	\Graphical Panels\Base Panels\Ecran41\Texte08
+2398	3	3	\Graphical Panels\Base Panels\Ecran41\Texte13
+2399	1	1	\Graphical Panels\Base Panels\Ecran41\Texte14
+2400	3	3	\Graphical Panels\Base Panels\Ecran41\Texte13
+2401	1	1	\Graphical Panels\Base Panels\Ecran41\Texte15
+2402	9	9	\Graphical Panels\Base Panels\Ecran41\Texte16
+
